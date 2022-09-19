@@ -1,0 +1,570 @@
+patch 0: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getNickName());
+
+🚀
+patch 1: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getLoginName());
+
+🚀
+patch 2: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getPasswordMd5());
+
+🚀
+patch 3: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getIntroduceSign());
+
+🚀
+patch 4: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getAddress());
+
+🚀
+patch 5: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.toString());
+
+🚀
+patch 6: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getName());
+
+🚀
+patch 7: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getUserId());
+
+🚀
+patch 8: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser);
+
+🚀
+patch 9: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.updateUserInfo());
+
+🚀
+patch 10: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName();
+
+🚀
+patch 11: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(userTemp.getNickName());
+
+🚀
+patch 12: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.updateByPrimaryKeySelective());
+
+🚀
+patch 13: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(httpSession.getNickName());
+
+🚀
+patch 14: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++if((mallUser != null)){
+
+🚀
+patch 15: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(httpSession);
+
+🚀
+patch 16: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB = userFromDB.setNickName(mallUser.getNickName());
+
+🚀
+patch 17: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(false);
+
+🚀
+patch 18: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUserMapper.getNickName());
+
+🚀
+patch 19: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getNickName(), false);
+
+🚀
+patch 20: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(true);
+
+🚀
+patch 21: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getNickName(), true);
+
+🚀
+patch 22: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getNickName(), null);
+
+🚀
+patch 23: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++setNickName(mallUser);
+
+🚀
+patch 24: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++if((userFromDB != null)){
+
+🚀
+patch 25: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(null);
+
+🚀
+patch 26: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++if((mallUser.getNickName() != null)){
+
+🚀
+patch 27: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(userFromDB);
+
+🚀
+patch 28: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setAddress(mallUser.getNickName());
+
+🚀
+patch 29: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(mallUser.getNickName(), httpSession);
+
+🚀
+patch 30: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setNickName(getNickName());
+
+🚀
+patch 31: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++userFromDB.setIntroduceSign(mallUser.getNickName());
+
+🚀
+patch 32: 
+newbeemall_184avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setNickName(mallUser.getNickName());
++setNickName(mallUser.getNickName());
+
+🚀
+patch 33: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getNickName());
+
+🚀
+patch 34: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getLoginName());
+
+🚀
+patch 35: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getPasswordMd5());
+
+🚀
+patch 36: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getIntroduceSign());
+
+🚀
+patch 37: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getAddress());
+
+🚀
+patch 38: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.toString());
+
+🚀
+patch 39: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getName());
+
+🚀
+patch 40: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getUserId());
+
+🚀
+patch 41: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser);
+
+🚀
+patch 42: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.updateUserInfo());
+
+🚀
+patch 43: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress();
+
+🚀
+patch 44: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(userTemp.getAddress());
+
+🚀
+patch 45: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.updateByPrimaryKeySelective());
+
+🚀
+patch 46: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(httpSession.getAddress());
+
+🚀
+patch 47: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(httpSession);
+
+🚀
+patch 48: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUserMapper.getAddress());
+
+🚀
+patch 49: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(false);
+
+🚀
+patch 50: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++setAddress(mallUser.getAddress());
+
+🚀
+patch 51: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(true);
+
+🚀
+patch 52: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++setAddress(userFromDB);
+
+🚀
+patch 53: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(getAddress());
+
+🚀
+patch 54: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getAddress(), false);
+
+🚀
+patch 55: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(mallUser.getAddress(), true);
+
+🚀
+patch 56: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setNickName(mallUser.getNickName());
+
+🚀
+patch 57: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB = userFromDB.setAddress(mallUser.getAddress());
+
+🚀
+patch 58: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++if((mallUser != null)){
+
+🚀
+patch 59: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++setAddress(mallUser);
+
+🚀
+patch 60: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++if((mallUser.getAddress() != null)){
+
+🚀
+patch 61: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userTemp.setAddress(mallUser.getAddress());
+
+🚀
+patch 62: 
+newbeemall_185avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setAddress(mallUser.getAddress());
++userFromDB.setAddress(null);
+
+🚀
+patch 63: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getNickName());
+
+🚀
+patch 64: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getLoginName());
+
+🚀
+patch 65: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getPasswordMd5());
+
+🚀
+patch 66: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
+
+🚀
+patch 67: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getAddress());
+
+🚀
+patch 68: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.toString());
+
+🚀
+patch 69: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getUserId());
+
+🚀
+patch 70: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getName());
+
+🚀
+patch 71: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser);
+
+🚀
+patch 72: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(userTemp.getIntroduceSign());
+
+🚀
+patch 73: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(httpSession.getIntroduceSign());
+
+🚀
+patch 74: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.updateUserInfo());
+
+🚀
+patch 75: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.updateByPrimaryKeySelective());
+
+🚀
+patch 76: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUserMapper.getIntroduceSign());
+
+🚀
+patch 77: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(httpSession);
+
+🚀
+patch 78: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign();
+
+🚀
+patch 79: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(userFromDB);
+
+🚀
+patch 80: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++if((userFromDB != 0)){
+
+🚀
+patch 81: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++if((mallUser != 0)){
+
+🚀
+patch 82: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userTemp.setIntroduceSign(mallUser.getIntroduceSign());
+
+🚀
+patch 83: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++if((mallUser.getIntroduceSign() != 0)){
+
+🚀
+patch 84: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setAddress(mallUser.getAddress());
+
+🚀
+patch 85: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++return;
+
+🚀
+patch 86: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++if((mallUser != null)){
+
+🚀
+patch 87: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(getIntroduceSign());
+
+🚀
+patch 88: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setAddress(mallUser.getIntroduceSign());
+
+🚀
+patch 89: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setNickName(mallUser.getNickName());
+
+🚀
+patch 90: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++setIntroduceSign(userFromDB);
+
+🚀
+patch 91: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB = mallUserMapper.selectByPrimaryKey(mallUser.getUserId());
+
+🚀
+patch 92: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(false);
+
+🚀
+patch 93: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getIntroduceSign(), false);
+
+🚀
+patch 94: 
+newbeemall_186avaj.lpmIecivreSresUllaMeeBweNlpmiecivresllameebwendtlavajniamcrs1_llam-eebwenllam-eebwensluvpmt-yh
+-            userFromDB.setIntroduceSign(mallUser.getIntroduceSign());
++userFromDB.setIntroduceSign(mallUser.getIntroduceSign(), httpSession);
+
+🚀

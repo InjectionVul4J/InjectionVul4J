@@ -1,0 +1,157 @@
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4295824522433203 : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>0,0]
+Page<SheetComment> sheetCommentPage=sheetCommentService.pageLatest(top,status);
+return sheetCommentService.convertToWithSheetVo(sheetCommentPage.getContent());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.convertToWithSheetVo(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.398717034272917 : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>0,0]
+String defaultValue=defaultValue();
+if(defaultValue==null){
+return null;
+}
+return PropertyEnum.convertTo(defaultValue,propertyType);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+if(defaultValue()==null){
+return null;
+}
+return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.356182887467515 : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>0,0]
+Assert.notNull(photoParam,"Photo param must not be null");
+return create(photoParam.convertTo());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.create(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3285714285714287 : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>0,0]
+return new MenuDTO().convertFrom(menuService.createBy(menuParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.convertFrom(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 0.9660917830792959 : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>0,0]
+Assert.notNull(commentPage,"Comment page must not be null");
+return commentPage.map(this::convertTo);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.map(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 0.954029957691665 : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>0,0]
+if(CollectionUtils.isEmpty(comments)){
+return Collections.emptyList();
+}
+return comments.stream().map(this::convertTo).collect(Collectors.toList());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_3//src/main/java//run/halo/app/controller/content/api/SheetController.java=>119,119]
+return Collections.emptyList();
+
+Time : 22/04/22 13:44
+----------------------------------------

@@ -1,0 +1,1631 @@
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.0510524225747537 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(value!=null&&value.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.0510524225747537 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegexps.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.0510524225747537 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(value!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.0510524225747537 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&value.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.0510524225747537 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegexps.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.0510524225747537 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4781105315169687 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(uri==null){
+errorMessages.add(ErrorMessageUtil.getMessage(messages,ErrorMessageUtil.ERROR_CSS_IMPORT_URL_INVALID,new Object[]{HTMLEntityEncoder.htmlEntityEncode(uri)}));
+return ;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+return ;
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4781105315169687 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(uri==null){
+errorMessages.add(ErrorMessageUtil.getMessage(messages,ErrorMessageUtil.ERROR_CSS_IMPORT_URL_INVALID,new Object[]{HTMLEntityEncoder.htmlEntityEncode(uri)}));
+return ;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+return ;
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4762812094883317 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(++importedStylesheets>allowedImports){
+errorMessages.add(ErrorMessageUtil.getMessage(messages,ErrorMessageUtil.ERROR_CSS_IMPORT_EXCEEDED,new Object[]{HTMLEntityEncoder.htmlEntityEncode(stylesheetUri.toString()),String.valueOf(allowedImports)}));
+continue;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+continue;
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4762812094883317 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(++importedStylesheets>allowedImports){
+errorMessages.add(ErrorMessageUtil.getMessage(messages,ErrorMessageUtil.ERROR_CSS_IMPORT_EXCEEDED,new Object[]{HTMLEntityEncoder.htmlEntityEncode(stylesheetUri.toString()),String.valueOf(allowedImports)}));
+continue;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+continue;
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3714443082944316 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(filename==null){
+return FILE_PROTOCOL_PREFIX;
+}
+int size=filename.length()+FILE_PROTOCOL_PREFIX.length();
+StringBuffer sb=new StringBuffer(size);
+sb.append(FILE_PROTOCOL_PREFIX);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+new StringBuffer(regExpName.length()+FILE_PROTOCOL_PREFIX.length()).append(FILE_PROTOCOL_PREFIX);
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3558775068646787 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if((documentBase!=null)&&(documentBase.length()>0)){
+int idx=documentBase.lastIndexOf(HREF_PATH_SEP);
+if(idx==(documentBase.length()-1)){
+absolute=documentBase+href;
+}else {
+absolute=documentBase+HREF_PATH_SEP;
+}
+}else {
+absolute=href;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(documentBase!=null&&documentBase.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3558775068646787 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if((documentBase!=null)&&(documentBase.length()>0)){
+int idx=documentBase.lastIndexOf(HREF_PATH_SEP);
+if(idx==(documentBase.length()-1)){
+absolute=documentBase+href;
+}else {
+absolute=documentBase+HREF_PATH_SEP;
+}
+}else {
+absolute=href;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(documentBase!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3558775068646787 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if((documentBase!=null)&&(documentBase.length()>0)){
+int idx=documentBase.lastIndexOf(HREF_PATH_SEP);
+if(idx==(documentBase.length()-1)){
+absolute=documentBase+href;
+}else {
+absolute=documentBase+HREF_PATH_SEP;
+}
+}else {
+absolute=href;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&documentBase.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1520933858188758 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(onInvalid!=null&&onInvalid.length()>0){
+onInvalidStr=onInvalid;
+}else {
+onInvalidStr=DEFAULT_ONINVALID;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(onInvalid!=null&&onInvalid.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1520933858188758 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(onInvalid!=null&&onInvalid.length()>0){
+onInvalidStr=onInvalid;
+}else {
+onInvalidStr=DEFAULT_ONINVALID;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(onInvalid!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1520933858188758 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(onInvalid!=null&&onInvalid.length()>0){
+onInvalidStr=onInvalid;
+}else {
+onInvalidStr=DEFAULT_ONINVALID;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&onInvalid.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.117232528511667 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(pattern!=null&&pattern.matcher(value).matches()){
+isValid=true;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(ANYTHING_REGEXP!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.103593423892535 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(!policy.isPreserveComments()){
+node.getParentNode().removeChild(node);
+}else {
+String value=((Comment)node).getData();
+if(value!=null){
+((Comment)node).setData(conditionalDirectives.matcher(value).replaceAll(""));
+}
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.setData(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.setData(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.103593423892535 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(!policy.isPreserveComments()){
+node.getParentNode().removeChild(node);
+}else {
+String value=((Comment)node).getData();
+if(value!=null){
+((Comment)node).setData(conditionalDirectives.matcher(value).replaceAll(""));
+}
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.setData(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.103593423892535 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(!policy.isPreserveComments()){
+node.getParentNode().removeChild(node);
+}else {
+String value=((Comment)node).getData();
+if(value!=null){
+((Comment)node).setData(conditionalDirectives.matcher(value).replaceAll(""));
+}
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.setData(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0642388900931872 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+boolean isValid=false;
+value=value.toLowerCase();
+Iterator allowedValues=property.getAllowedValues().iterator();
+while(allowedValues.hasNext()&&!isValid){
+String allowedValue=(String)allowedValues.next();
+if(allowedValue!=null&&allowedValue.equals(value)){
+isValid=true;
+}
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(allowedValue!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0642388900931872 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+boolean isValid=false;
+value=value.toLowerCase();
+Iterator allowedValues=property.getAllowedValues().iterator();
+while(allowedValues.hasNext()&&!isValid){
+String allowedValue=(String)allowedValues.next();
+if(allowedValue!=null&&allowedValue.equals(value)){
+isValid=true;
+}
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+value=value.toLowerCase();
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.052062432883722 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+while(lu!=null){
+String value=lexicalValueToString(lu);
+if(value==null||!validateValue(property,value)){
+isValid=false;
+break;
+}
+lu=lu.getNextLexicalUnit();
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName==null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 0.9740398966357051 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(stylesheet!=null){
+sizeLimit-=stylesheet.length;
+try{
+InputSource nextStyleSheet=new InputSource(new InputStreamReader(new ByteArrayInputStream(stylesheet)));
+parser.parseStyleSheet(nextStyleSheet);
+}catch (IOException ioe) {
+  throw new ScanException(ioe);
+}
+
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+sizeLimit-=stylesheet.length;
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 0.9740398966357051 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(stylesheet!=null){
+sizeLimit-=stylesheet.length;
+try{
+InputSource nextStyleSheet=new InputSource(new InputStreamReader(new ByteArrayInputStream(stylesheet)));
+parser.parseStyleSheet(nextStyleSheet);
+}catch (IOException ioe) {
+  throw new ScanException(ioe);
+}
+
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>588,592]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+sizeLimit-=stylesheet.length;
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.5301864732892074 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(pattern!=null){
+allowedRegExp.add(pattern.getPattern());
+}else if(value!=null){
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>623,627]
+if(pattern!=null){
+allowedRegexps.add(pattern.getPattern());
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>623,627]
+if(pattern!=null){
+allowedRegExp.add(pattern.getPattern());
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.537079648991766 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>623,627]
+if(pattern!=null){
+allowedRegexps.add(pattern.getPattern());
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>623,627]
+if(pattern!=null&&pattern.length()>0){
+allowedRegexps.add(pattern.getPattern());
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0012830552298646 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(onInvalid!=null&&onInvalid.length()>0){
+onInvalidStr=onInvalid;
+}else {
+onInvalidStr=DEFAULT_ONINVALID;
+}
+String description=getAttributeValue(ele,"description");
+Attribute attribute=new Attribute(getAttributeValue(ele,"name"),allowedRegexps,allowedValues,onInvalidStr,description);
+commonAttributes1.put(name.toLowerCase(),attribute);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>623,627]
+if(pattern!=null){
+allowedRegexps.add(pattern.getPattern());
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>623,627]
+commonAttributes.put(DEFAULT_ONINVALID.toLowerCase(),new Attribute(getAttributeValue(attributeNode,"name"),allowedRegexps,allowedEmptyTags,DEFAULT_ONINVALID,getAttributeValue(attributeNode,"description")));
+if(pattern!=null){
+allowedRegexps.add(pattern.getPattern());
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.3244672470630556 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+sizeLimit-=stylesheet.length;
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.3244672470630556 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+sizeLimit-=stylesheet.length;
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(regExpName!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.3244672470630556 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+sizeLimit-=stylesheet.length;
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&regExpName.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.3244672470630556 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+sizeLimit-=stylesheet.length;
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.3244672470630556 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(regExpName!=null&&regExpName.length()>0){
+allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+}else {
+sizeLimit-=stylesheet.length;
+allowedRegExp.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+sizeLimit-=stylesheet.length;
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.7100307214746389 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(value!=null){
+((Comment)node).setData(conditionalDirectives.matcher(value).replaceAll(""));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.setData(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.7096449173246002 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(pattern!=null&&pattern.matcher(value).matches()){
+isValid=true;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(ANYTHING_REGEXP!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.6854143466934852 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(allowedValue!=null&&allowedValue.equals(value)){
+isValid=true;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(allowedValue!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.6094795345763615 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if((documentBase!=null)&&(documentBase.length()>0)){
+int idx=documentBase.lastIndexOf(HREF_PATH_SEP);
+if(idx==(documentBase.length()-1)){
+absolute=documentBase+href;
+}else {
+absolute=documentBase+HREF_PATH_SEP;
+}
+}else {
+absolute=href;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(documentBase!=null&&documentBase.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.6094795345763615 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if((documentBase!=null)&&(documentBase.length()>0)){
+int idx=documentBase.lastIndexOf(HREF_PATH_SEP);
+if(idx==(documentBase.length()-1)){
+absolute=documentBase+href;
+}else {
+absolute=documentBase+HREF_PATH_SEP;
+}
+}else {
+absolute=href;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(documentBase!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.6094795345763615 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if((documentBase!=null)&&(documentBase.length()>0)){
+int idx=documentBase.lastIndexOf(HREF_PATH_SEP);
+if(idx==(documentBase.length()-1)){
+absolute=documentBase+href;
+}else {
+absolute=documentBase+HREF_PATH_SEP;
+}
+}else {
+absolute=href;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&documentBase.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4168894559922718 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(onInvalid!=null&&onInvalid.length()>0){
+onInvalidStr=onInvalid;
+}else {
+onInvalidStr=DEFAULT_ONINVALID;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(onInvalid!=null&&onInvalid.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4168894559922718 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(onInvalid!=null&&onInvalid.length()>0){
+onInvalidStr=onInvalid;
+}else {
+onInvalidStr=DEFAULT_ONINVALID;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(onInvalid!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4168894559922718 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+if(onInvalid!=null&&onInvalid.length()>0){
+onInvalidStr=onInvalid;
+}else {
+onInvalidStr=DEFAULT_ONINVALID;
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&onInvalid.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4085564720561592 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+while(lu!=null){
+String value=lexicalValueToString(lu);
+if(value==null||!validateValue(property,value)){
+isValid=false;
+break;
+}
+lu=lu.getNextLexicalUnit();
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>629,631]
+if(value==null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.223385450253188 : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>0,0]
+while(lu!=null){
+String value=lexicalValueToString(lu);
+if(value==null||!validateValue(property,value)){
+isValid=false;
+break;
+}
+lu=lu.getNextLexicalUnit();
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>620,631]
+if(regExpName!=null&&regExpName.length()>0){
+AntiSamyPattern pattern=commonRegularExpressions1.get(regExpName);
+if(pattern!=null){
+allowedRegexps.add(pattern.getPattern());
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+}else if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/antisamy/antisamy_1//src/main/java//org/owasp/validator/html/Policy.java=>620,631]
+if(regExpName==null&&regExpName.length()>0){
+AntiSamyPattern pattern=commonRegularExpressions1.get(regExpName);
+if(pattern!=null){
+allowedRegexps.add(pattern.getPattern());
+}else {
+throw new PolicyException("Regular expression \'"+regExpName);
+}
+}else if(value!=null&&value.length()>0){
+allowedRegexps.add(Pattern.compile(REGEXP_BEGIN+value));
+}
+
+Time : 22/04/22 13:44
+----------------------------------------

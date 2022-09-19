@@ -1,0 +1,230 @@
+patch 0: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++
+🚀
+patch 1: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), 0, e));
+
+🚀
+patch 2: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(kind.toString()), -1, e));
+
+🚀
+patch 3: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), 1, e));
+
+🚀
+patch 4: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), -1, e));
+
+🚀
+patch 5: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), 2, e));
+
+🚀
+patch 6: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(ac.toString()), -1, e));
+
+🚀
+patch 7: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), -1, er));
+
+🚀
+patch 9: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++return;
+
+🚀
+patch 11: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.getName()), -1, e));
+
+🚀
+patch 12: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(m.toString()), -1, e));
+
+🚀
+patch 13: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(cssFouffa.toString()), -1, e));
+
+🚀
+patch 14: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++media = "null";
+
+🚀
+patch 15: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++addMedias(m, media, ac);
+
+🚀
+patch 16: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++ac.setReferrer(ref);
+
+🚀
+patch 17: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++media = ac.getMedium();
+
+🚀
+patch 18: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(Messages.escapeString(url.toString()));
+
+🚀
+patch 19: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new Errors());
+
+🚀
+patch 20: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++notifyErrors(er);
+
+🚀
+patch 21: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(url.toString(), -1, e));
+
+🚀
+patch 22: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++cssFouffa.setAtRule(m);
+
+🚀
+patch 23: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString())));
+
+🚀
+patch 25: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++kind = kind.trim().toLowerCase();
+
+🚀
+patch 27: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), -1, ref));
+
+🚀
+patch 29: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.toLowerCase(url.toString()), -1, e));
+
+🚀
+patch 30: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.getCssVersion()), -1, e));
+
+🚀
+patch 31: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(er.escapeString(url.toString()), -1, e));
+
+🚀
+patch 32: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(url.toString()));
+
+🚀
+patch 33: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), -1, doneref));
+
+🚀
+patch 34: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), -1, url));
+
+🚀
+patch 35: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(e));
+
+🚀
+patch 36: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(Messages.escapeString(url.toString()), -1, kind));
+
+🚀
+patch 40: 
+cssvalidator_1237avaj.resraPteehSelytSsscsscc3wgro1_rotadilav-sscrotadilav-sscsluvpmt-yh
+-            er.addError(new org.w3c.css.parser.CssError(Messages.escapeString(url.toString()),
+                    -1, e));
++er.addError(new org(kind.escapeString(url.toString()), -1, e));
+
+🚀

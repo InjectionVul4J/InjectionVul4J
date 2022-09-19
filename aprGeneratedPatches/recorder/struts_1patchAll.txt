@@ -1,0 +1,1538 @@
+patch 0: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, context, tree, value);
+
+🚀
+patch 1: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, context, root, value);
+
+🚀
+patch 2: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, tree, root, value);
+
+🚀
+patch 3: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, context, context, value);
+
+🚀
+patch 4: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, context, root, tree);
+
+🚀
+patch 5: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++setValue(tree, context, root, value);
+
+🚀
+patch 8: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++setValue(tree, context);
+
+🚀
+patch 9: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, context);
+
+🚀
+patch 10: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, context, root, context);
+
+🚀
+patch 11: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.execute(tree, context, root, value);
+
+🚀
+patch 14: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++if(isEvalExpression(tree, context)){
+
+🚀
+patch 15: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(context, tree);
+
+🚀
+patch 16: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(value, tree);
+
+🚀
+patch 17: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, context, value, value);
+
+🚀
+patch 18: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++if((tree != null)){
+
+🚀
+patch 19: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(root, tree);
+
+🚀
+patch 20: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree);
+
+🚀
+patch 22: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, root, root, value);
+
+🚀
+patch 23: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, value, root, value);
+
+🚀
+patch 24: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue();
+
+🚀
+patch 25: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.debug(tree, context, root, value);
+
+🚀
+patch 27: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++setValue();
+
+🚀
+patch 28: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++tree.setValue(tree, context, root, value);
+
+🚀
+patch 29: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(context);
+
+🚀
+patch 30: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(tree, root);
+
+🚀
+patch 31: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++Ognl.setValue(value);
+
+🚀
+patch 33: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++return;
+
+🚀
+patch 34: 
+struts_1292avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                Ognl.setValue(tree, context, root, value);
++return null;
+🚀
+patch 35: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return tree;
+🚀
+patch 36: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return context;
+🚀
+patch 37: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return value;
+🚀
+patch 38: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return root;
+🚀
+patch 39: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return this;
+🚀
+patch 40: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++
+🚀
+patch 41: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return ;
+🚀
+patch 42: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return new OgnlException();
+🚀
+patch 43: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return null;
+🚀
+patch 44: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return;
+
+🚀
+patch 45: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++Ognl.setValue(tree, context, root, value);
+
+🚀
+patch 46: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return "null";
+🚀
+patch 47: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++continue;
+
+🚀
+patch 48: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++if(isEvalExpression(tree, context)){
+
+🚀
+patch 49: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++if((tree != null)){
+
+🚀
+patch 50: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return ;
+🚀
+patch 51: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++break;
+
+🚀
+patch 52: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return tree;
+🚀
+patch 53: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return true;
+🚀
+patch 54: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return new OgnlException("null");
+🚀
+patch 55: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return execute;
+🚀
+patch 56: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return;
+
+🚀
+patch 57: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return 1;
+🚀
+patch 58: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return e;
+🚀
+patch 59: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return -1;
+🚀
+patch 60: 
+struts_1293avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                return null;
++return this;
+🚀
+patch 61: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((context != null)){
+
+🚀
+patch 62: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((context instanceof OgnlContext)){
+
+🚀
+patch 63: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree && SimpleNode)){
+🚀
+patch 64: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree instanceof SimpleNode)){
+🚀
+patch 65: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((context instanceof SimpleNode)){
+🚀
+patch 66: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree || SimpleNode)){
+🚀
+patch 67: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(tree){
+
+🚀
+patch 68: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree != SimpleNode)){
+🚀
+patch 69: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++ognlContext = (OgnlContext)context;
+
+🚀
+patch 70: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(!tree){
+
+🚀
+patch 71: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree && (tree instanceof SimpleNode))){
+
+🚀
+patch 72: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(((tree instanceof SimpleNode) && (context instanceof OgnlContext))){
+
+🚀
+patch 73: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree instanceof Map<String, Object>)){
+
+🚀
+patch 74: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree != SimpleNode)){
+
+🚀
+patch 75: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree instanceof SimpleNode)){
+
+🚀
+patch 76: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree == SimpleNode)){
+🚀
+patch 77: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++return false;
+🚀
+patch 78: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree != null)){
+return false;}
+🚀
+patch 79: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((SimpleNode)tree){
+
+🚀
+patch 80: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree instanceof OgnlContext)){
+
+🚀
+patch 81: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(((tree instanceof SimpleNode) && (SimpleNode)tree)){
+
+🚀
+patch 82: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(((tree instanceof SimpleNode) && (context != null))){
+
+🚀
+patch 83: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree instanceof SimpleNode)){
+return false;}
+🚀
+patch 84: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree == null)){
+return false;}
+🚀
+patch 87: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((context != null)){
+
+🚀
+patch 88: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(tree.isEvalExpression()){
+
+🚀
+patch 89: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(((tree instanceof SimpleNode) && (context == null))){
+
+🚀
+patch 90: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(((tree instanceof SimpleNode) && (context == SimpleNode))){
+
+🚀
+patch 91: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++super.isEvalExpression();
+
+🚀
+patch 92: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(((tree instanceof SimpleNode) && (tree instanceof SimpleNode))){
+
+🚀
+patch 93: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree != null)){
+
+🚀
+patch 94: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((context == null)){
+return false;}
+🚀
+patch 95: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((context instanceof OgnlContext)){
+
+🚀
+patch 96: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if((tree instanceof SimpleNode)){
+
+🚀
+patch 97: 
+struts_1299avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-        if (tree instanceof SimpleNode) {
++if(((tree != null) && (tree instanceof SimpleNode))){
+
+🚀
+patch 99: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++final SimpleNode node = (SimpleNode)tree;
+
+🚀
+patch 100: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = (SimpleNode)context;
+
+🚀
+patch 101: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = (SimpleNode)tree;
+
+🚀
+patch 102: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = node.isEvalChain(ognlContext);
+
+🚀
+patch 103: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if((tree instanceof SimpleNode)){
+return false;}
+🚀
+patch 104: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = this.tree;
+
+🚀
+patch 105: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = tree;
+
+🚀
+patch 106: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = (SimpleNode)node;
+
+🚀
+patch 107: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = (SimpleNode)ognlContext;
+
+🚀
+patch 108: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = (SimpleNode);
+
+🚀
+patch 109: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = (OgnlContext)context;
+
+🚀
+patch 110: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if((tree != null)){
+
+🚀
+patch 111: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++ognlContext = (OgnlContext)context;
+
+🚀
+patch 112: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = tree.isEvalExpression();
+
+🚀
+patch 113: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++return false;
+🚀
+patch 114: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if((tree instanceof SimpleNode)){
+return node.isEvalChain(ognlContext);}
+🚀
+patch 115: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if((context instanceof OgnlContext)){
+
+🚀
+patch 116: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if((context != null)){
+
+🚀
+patch 117: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if((tree != null)){
+return false;}
+🚀
+patch 118: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if((context instanceof SimpleNode)){
+
+🚀
+patch 119: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = null;
+
+🚀
+patch 120: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if(((SimpleNode)tree instanceof SimpleNode)){
+
+🚀
+patch 121: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = (SimpleNode)(SimpleNode)tree;
+
+🚀
+patch 122: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++super.isEvalExpression();
+
+🚀
+patch 123: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode<?> node = (SimpleNode)tree;
+
+🚀
+patch 124: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = tree(tree);
+
+🚀
+patch 125: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++OgnlContext ognlContext = null;
+
+🚀
+patch 126: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = (SimpleNode)tree.isEvalExpression();
+
+🚀
+patch 127: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++if((tree == null)){
+return false;}
+🚀
+patch 128: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = isEvalExpression(tree);
+
+🚀
+patch 129: 
+struts_1300avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            SimpleNode node = (SimpleNode) tree;
++SimpleNode node = super.tree();
+
+🚀
+patch 131: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++OgnlContext ognlContext = "null";
+
+🚀
+patch 132: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++final OgnlContext ognlContext = null;
+
+🚀
+patch 133: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node != null)){
+
+🚀
+patch 134: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node == null)){
+return false;}
+🚀
+patch 135: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++OgnlContext ognlContext = true;
+
+🚀
+patch 136: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++SimpleNode node = (SimpleNode)tree;
+
+🚀
+patch 137: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++ognlContext = (OgnlContext)context;
+
+🚀
+patch 138: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((tree != null)){
+
+🚀
+patch 139: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node != null)){
+return false;}
+🚀
+patch 140: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++return false;
+🚀
+patch 141: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node instanceof SimpleNode)){
+
+🚀
+patch 142: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((context != null)){
+
+🚀
+patch 143: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((context == null)){
+return false;}
+🚀
+patch 144: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((context instanceof OgnlContext)){
+
+🚀
+patch 145: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++ognlContext = null;
+
+🚀
+patch 146: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++OgnlContext ognlContext = null;
+
+🚀
+patch 147: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((tree == null)){
+return false;}
+🚀
+patch 149: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++ognlContext = null;
+
+🚀
+patch 150: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node == null)){
+
+🚀
+patch 151: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++OgnlContext<?> ognlContext = null;
+
+🚀
+patch 152: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node instanceof OgnlContext)){
+return false;}
+🚀
+patch 154: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node == null)){
+return node.isEvalChain(ognlContext);}
+🚀
+patch 155: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++return;
+
+🚀
+patch 156: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++
+🚀
+patch 157: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++ognlContext = node;
+
+🚀
+patch 158: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((tree instanceof OgnlContext)){
+
+🚀
+patch 159: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++ognlContext = (OgnlContext)context;
+
+🚀
+patch 160: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++OgnlContext<String, Object> ognlContext = null;
+
+🚀
+patch 161: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((ognlContext instanceof OgnlContext)){
+
+🚀
+patch 162: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++ognlContext = ognlContext;
+
+🚀
+patch 163: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((tree != null)){
+return false;}
+🚀
+patch 164: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((context == null)){
+
+🚀
+patch 165: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++ognlContext++;
+
+🚀
+patch 166: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node != null)){
+return node.isEvalChain(ognlContext);}
+🚀
+patch 168: 
+struts_1301avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            OgnlContext ognlContext = null;
++if((node == null)){
+continue;
+}
+🚀
+patch 170: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((context instanceof OgnlContext)){
+
+🚀
+patch 171: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((context != null)){
+
+🚀
+patch 172: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (context instanceof OgnlContext))){
+🚀
+patch 173: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) || (context instanceof OgnlContext))){
+🚀
+patch 174: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context == null) && (context instanceof OgnlContext))){
+🚀
+patch 175: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (ognlContext instanceof OgnlContext))){
+🚀
+patch 176: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (context != OgnlContext))){
+🚀
+patch 177: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (context == OgnlContext))){
+🚀
+patch 178: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((((context != null) && (context instanceof OgnlContext)) && (context instanceof OgnlContext))){
+
+🚀
+patch 179: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (context != null))){
+
+🚀
+patch 180: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && ((context != null) && (context instanceof OgnlContext)))){
+
+🚀
+patch 181: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((((context != null) && (context instanceof OgnlContext)) && (context != null))){
+
+🚀
+patch 182: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (node instanceof OgnlContext))){
+🚀
+patch 183: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(context){
+
+🚀
+patch 184: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((((context != null) && (context != null)) && (context instanceof OgnlContext))){
+
+🚀
+patch 185: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context > null) && (context instanceof OgnlContext))){
+🚀
+patch 186: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && ((context instanceof OgnlContext) && (context instanceof OgnlContext)))){
+
+🚀
+patch 187: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (context == null))){
+
+🚀
+patch 188: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context >= null) && (context instanceof OgnlContext))){
+🚀
+patch 189: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((((context != null) && (context instanceof OgnlContext)) && (context == null))){
+
+🚀
+patch 190: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (tree instanceof OgnlContext))){
+🚀
+patch 191: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(!context){
+
+🚀
+patch 192: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(node.isEvalChain(ognlContext)){
+
+🚀
+patch 193: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (context > OgnlContext))){
+🚀
+patch 194: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((context instanceof OgnlContext)){
+
+🚀
+patch 195: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((((context != null) && (context instanceof OgnlContext)) && (context instanceof OgnlContext)) && (context instanceof OgnlContext))){
+
+🚀
+patch 196: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((context != null)){
+
+🚀
+patch 197: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((context && (context instanceof OgnlContext))){
+
+🚀
+patch 198: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((tree instanceof SimpleNode)){
+
+🚀
+patch 199: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((((context != null) && (context == null)) && (context instanceof OgnlContext))){
+
+🚀
+patch 200: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((((context != null) && (context instanceof OgnlContext)) && (OgnlContext)context)){
+
+🚀
+patch 202: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (OgnlContext)context)){
+
+🚀
+patch 203: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((((context != null) && (context instanceof OgnlContext)) && (context != null)) && (context instanceof OgnlContext))){
+
+🚀
+patch 204: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && ((context instanceof OgnlContext) && (context != null)))){
+
+🚀
+patch 205: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && ((context != null) && (context != null)))){
+
+🚀
+patch 206: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (context != OgnlContext))){
+
+🚀
+patch 208: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((((context != null) && (context instanceof OgnlContext)) && (tree instanceof SimpleNode))){
+
+🚀
+patch 209: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != true) && (context instanceof OgnlContext))){
+🚀
+patch 210: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (((context != null) && (context instanceof OgnlContext)) && (context instanceof OgnlContext)))){
+
+🚀
+patch 211: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (context == OgnlContext))){
+
+🚀
+patch 212: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if((((context != null) && (context instanceof OgnlContext)) && (SimpleNode)tree)){
+
+🚀
+patch 213: 
+struts_1303avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            if (context!=null && context instanceof OgnlContext) {
++if(((context != null) && (((context != null) && (context instanceof OgnlContext)) && (context != null)))){
+
+🚀
+patch 214: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return context;
+🚀
+patch 215: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return false;
+🚀
+patch 216: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = node.isEvalChain(ognlContext);
+
+🚀
+patch 217: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return tree;
+🚀
+patch 218: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return ognlContext = (OgnlContext)context;
+🚀
+patch 219: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++
+🚀
+patch 220: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return false;
+🚀
+patch 221: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = ognlContext;
+
+🚀
+patch 222: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = tree;
+
+🚀
+patch 223: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = this.context;
+
+🚀
+patch 224: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = context;
+
+🚀
+patch 225: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = (OgnlContext)context;
+
+🚀
+patch 226: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return;
+
+🚀
+patch 227: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++if((context instanceof OgnlContext)){
+
+🚀
+patch 228: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = (SimpleNode)tree;
+
+🚀
+patch 229: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = (OgnlContext)ognlContext;
+
+🚀
+patch 230: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = true;
+
+🚀
+patch 231: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++node.isEvalChain(ognlContext);
+
+🚀
+patch 232: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return ognlContext;
+🚀
+patch 233: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++if((context != null)){
+
+🚀
+patch 234: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = false;
+
+🚀
+patch 235: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return node.isEvalChain(ognlContext);
+🚀
+patch 236: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = super.isEvalExpression();
+
+🚀
+patch 237: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = (OgnlContext)node;
+
+🚀
+patch 238: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = (OgnlContext)context;
+
+🚀
+patch 239: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = node;
+
+🚀
+patch 240: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = null;
+
+🚀
+patch 241: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return true;
+🚀
+patch 243: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++if((ognlContext != null)){
+
+🚀
+patch 244: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return;
+
+🚀
+patch 245: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++node = (OgnlContext)context;
+
+🚀
+patch 246: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++return node;
+🚀
+patch 247: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = context;
+
+🚀
+patch 248: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = OgnlContext;
+
+🚀
+patch 249: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++if(((OgnlContext)context instanceof OgnlContext)){
+
+🚀
+patch 250: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = (OgnlContext)tree;
+
+🚀
+patch 251: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = this.tree;
+
+🚀
+patch 252: 
+struts_1304avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-                ognlContext = (OgnlContext) context;
++ognlContext = context.isEvalExpression();
+
+🚀
+patch 253: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = (OgnlContext)context;
+
+🚀
+patch 254: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return false;
+🚀
+patch 255: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext);
+🚀
+patch 256: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++break;
+
+🚀
+patch 257: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalExpression(ognlContext);
+🚀
+patch 258: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((ognlContext != null)){
+
+🚀
+patch 259: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return false;
+🚀
+patch 260: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return;
+
+🚀
+patch 261: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(node);
+🚀
+patch 262: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = ognlContext;
+
+🚀
+patch 263: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return true;
+🚀
+patch 264: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = false;
+
+🚀
+patch 265: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return isEvalChain(ognlContext);
+🚀
+patch 266: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, ognlContext);
+🚀
+patch 267: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = null;
+
+🚀
+patch 268: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, context);
+🚀
+patch 269: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node;
+🚀
+patch 270: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext++;
+
+🚀
+patch 271: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = true;
+
+🚀
+patch 272: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((context != null)){
+
+🚀
+patch 273: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain();
+🚀
+patch 274: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return tree.isEvalChain(ognlContext);
+🚀
+patch 275: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((context instanceof OgnlContext)){
+
+🚀
+patch 276: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = node;
+
+🚀
+patch 277: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, false);
+🚀
+patch 278: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain();
+🚀
+patch 279: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return ((ognlContext != null) && node.isEvalChain(ognlContext));
+🚀
+patch 280: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((ognlContext == null)){
+return false;}
+🚀
+patch 281: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, true);
+🚀
+patch 282: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((node != null)){
+
+🚀
+patch 283: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, tree);
+🚀
+patch 284: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.add(ognlContext);
+🚀
+patch 285: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return (node.isEvalChain(ognlContext) && node.isEvalChain(ognlContext));
+🚀

@@ -1,0 +1,246 @@
+patch 0: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 1: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.getTaskName(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 2: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.getName(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 3: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++onOpen();
+
+🚀
+patch 4: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++makeMenuBar();
+
+🚀
+patch 5: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++onClose();
+
+🚀
+patch 6: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++return;
+
+🚀
+patch 7: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.getPlace(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 8: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskName) + "null") + selectedTaskName));
+
+🚀
+patch 9: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(defaultPlaceRequest) + "null") + selectedTaskName));
+
+🚀
+patch 10: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.getContent(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 11: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.next(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 12: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.getWidget(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 13: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.getTaskId(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 14: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(placeToGo) + "null") + selectedTaskName));
+
+🚀
+patch 15: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText((((String.valueOf(selectedTaskId) + "null") + selectedTaskName) + "null"));
+
+🚀
+patch 16: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(String.valueOf(selectedTaskId));
+
+🚀
+patch 17: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") + placeToGo));
+
+🚀
+patch 18: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++if(((event.getPlace() != null) && !event.getPlace().equals("null"))){
+
+🚀
+patch 19: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf() + "null") + selectedTaskName));
+
+🚀
+patch 20: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") + event));
+
+🚀
+patch 21: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(event) + "null") + selectedTaskName));
+
+🚀
+patch 22: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName();
+
+🚀
+patch 23: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++if((selectedTaskId != "null")){
+
+🚀
+patch 24: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++placeToGo = event.getPlace();
+
+🚀
+patch 25: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++selectedTaskName = event.getTaskName();
+
+🚀
+patch 26: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++placeToGo = event.getPlace();
+
+🚀
+patch 27: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") - selectedTaskName));
+
+🚀
+patch 28: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++if((selectedTaskName != "null")){
+
+🚀
+patch 29: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") + selectedTaskId));
+
+🚀
+patch 30: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") + selectedTaskName.selectedTaskId));
+
+🚀
+patch 31: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") + getTitle().selectedTaskId));
+
+🚀
+patch 32: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(activities) + "null") + selectedTaskName));
+
+🚀
+patch 33: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText((String.valueOf(selectedTaskId) + "null"));
+
+🚀
+patch 35: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++placeToGo = "null";
+
+🚀
+patch 36: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") + "null"));
+
+🚀
+patch 37: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getTaskIdAndName().setText(((String.valueOf(selectedTaskId) + "null") + defaultPlaceRequest));
+
+🚀
+patch 38: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++view.getContent().setText(((String.valueOf(selectedTaskId) + "null") + selectedTaskName));
+
+🚀
+patch 39: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++String.onOpen();
+
+🚀
+patch 40: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++String.makeMenuBar();
+
+🚀
+patch 41: 
+jbpmwb_1120avaj.retneserPitluMsliateDksaTitlumsliatedksatsrotidetneilcthgnelosnocmpbjgroavajniamcrstneilc-sksat-namuh-gn-elosnoc-mpbjsksat-namuh-gn-elosnoc-mpbj1_bw-mpbjbw-mpbjsluvpmt-yh
+-        view.getTaskIdAndName().setText(String.valueOf(selectedTaskId) + " - "+selectedTaskName);
++String.onClose();
+
+🚀

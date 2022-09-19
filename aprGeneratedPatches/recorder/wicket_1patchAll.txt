@@ -1,0 +1,340 @@
+patch 1: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++delete();
+
+🚀
+patch 2: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++finalize();
+
+🚀
+patch 5: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++super.writeObject();
+
+🚀
+patch 6: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if(!isInMemory()){
+return;
+}
+🚀
+patch 7: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if(!isFormField()){
+return;
+}
+🚀
+patch 9: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if(isInMemory()){
+return;
+}
+🚀
+patch 10: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if(isFormField()){
+return;
+}
+🚀
+patch 11: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if((out != null)){
+
+🚀
+patch 12: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++return;
+
+🚀
+patch 13: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if(dfos.isInMemory()){
+return;
+}
+🚀
+patch 19: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++dfos.thresholdReached();
+
+🚀
+patch 23: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if((cachedContent != null)){
+
+🚀
+patch 24: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if((out == null)){
+return;
+}
+🚀
+patch 25: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if(!dfos.isInMemory()){
+return;
+}
+🚀
+patch 31: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if(out){
+return;
+}
+🚀
+patch 32: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++super.writeObject(out);
+
+🚀
+patch 34: 
+wicket_1698avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		if (dfos.isInMemory())
++if(!out){
+return;
+}
+🚀
+patch 40: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if((in != null)){
+
+🚀
+patch 41: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.readObject();
+
+🚀
+patch 42: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++delete();
+
+🚀
+patch 43: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++finalize();
+
+🚀
+patch 44: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++super.readObject();
+
+🚀
+patch 45: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++super.readObject(in);
+
+🚀
+patch 46: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++return;
+
+🚀
+patch 47: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if((in == null)){
+return;
+}
+🚀
+patch 48: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.copy();
+
+🚀
+patch 49: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.defaultReadObject();
+
+🚀
+patch 50: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.defaultReadObject(in);
+
+🚀
+patch 51: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.write();
+
+🚀
+patch 52: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if(!isInMemory()){
+return;
+}
+🚀
+patch 53: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if(!isFormField()){
+return;
+}
+🚀
+patch 54: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if((in != null)){
+return;
+}
+🚀
+patch 56: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++defaultReadObject();
+
+🚀
+patch 57: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.remove();
+
+🚀
+patch 58: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in = in.defaultReadObject();
+
+🚀
+patch 59: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++super.readObject(cachedContent);
+
+🚀
+patch 60: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++this.delete();
+
+🚀
+patch 61: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++this.finalize();
+
+🚀
+patch 62: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++readObject(in);
+
+🚀
+patch 63: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++defaultReadObject(in);
+
+🚀
+patch 65: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++Streams.delete();
+
+🚀
+patch 66: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++Streams.finalize();
+
+🚀
+patch 67: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if((in == null)){
+
+🚀
+patch 68: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.defaultReadObject(this);
+
+🚀
+patch 69: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++Files.delete();
+
+🚀
+patch 70: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++Files.finalize();
+
+🚀
+patch 71: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.defaultReadObject(false);
+
+🚀
+patch 72: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.defaultReadObject(cachedContent);
+
+🚀
+patch 73: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if(isInMemory()){
+return;
+}
+🚀
+patch 74: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if(isFormField()){
+return;
+}
+🚀
+patch 75: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.getOutputStream();
+
+🚀
+patch 76: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++if(!in){
+return;
+}
+🚀
+patch 77: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.close();
+
+🚀
+patch 78: 
+wicket_1726avaj.metIeliFksiDdaolpulitutekciwehcapagroavajniamcrslitu-tekciw1_tekciwtekciwsluvpmt-yh
+-		in.defaultReadObject();
++in.defaultReadObject(true);
+
+🚀

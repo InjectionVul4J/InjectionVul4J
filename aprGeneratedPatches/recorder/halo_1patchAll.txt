@@ -1,0 +1,395 @@
+patch 0: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
+🚀
+patch 1: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.comment(journalCommentParam));
+🚀
+patch 2: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentParam);
+🚀
+patch 3: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.createBy(journalCommentParam);
+🚀
+patch 4: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return convertTo(journalCommentParam);
+🚀
+patch 5: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(createBy(journalCommentParam));
+🚀
+patch 6: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam), journalCommentParam);
+🚀
+patch 7: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.get(journalCommentParam));
+🚀
+patch 8: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam), false);
+🚀
+patch 9: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.add(journalCommentParam));
+🚀
+patch 10: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam, false));
+🚀
+patch 11: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam), true);
+🚀
+patch 12: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam, true));
+🚀
+patch 13: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++if((journalCommentParam != null)){
+
+🚀
+patch 14: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return convertTo(journalCommentService.createBy(journalCommentParam));
+🚀
+patch 15: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.debug(journalCommentParam));
+🚀
+patch 16: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++if((journalCommentParam == null)){
+return null;}
+🚀
+patch 17: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam)));
+🚀
+patch 18: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentParam.createBy(journalCommentParam));
+🚀
+patch 19: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentParam;
+🚀
+patch 20: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam, null));
+🚀
+patch 21: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++journalCommentService.convertTo(journalCommentParam);
+
+🚀
+patch 22: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentService.createBy(journalCommentParam)));
+🚀
+patch 23: 
+halo_1111avaj.rellortnoClanruoJipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam));
++return journalCommentService.convertTo(journalCommentService.createBy(journalCommentParam), null);
+🚀
+patch 24: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus();
+
+🚀
+patch 25: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++validateCommentBlackListStatus();
+
+🚀
+patch 26: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.comment();
+
+🚀
+patch 27: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++validateCommentBlackListStatus(postCommentParam);
+
+🚀
+patch 28: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus(postCommentParam);
+
+🚀
+patch 29: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.convertTo();
+
+🚀
+patch 30: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++super.comment();
+
+🚀
+patch 31: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.createBy();
+
+🚀
+patch 32: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus();
+
+🚀
+patch 33: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++if((postCommentParam != null)){
+
+🚀
+patch 34: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus(true);
+
+🚀
+patch 35: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus(false);
+
+🚀
+patch 36: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus(postCommentService.createBy(postCommentParam));
+
+🚀
+patch 37: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus(this);
+
+🚀
+patch 38: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus();
+
+🚀
+patch 39: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentParam.validateCommentBlackListStatus();
+
+🚀
+patch 40: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++validateCommentBlackListStatus(postCommentService.createBy(postCommentParam));
+
+🚀
+patch 41: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus(null);
+
+🚀
+patch 42: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++super.validateCommentBlackListStatus();
+
+🚀
+patch 43: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.validateCommentBlackListStatus("null");
+
+🚀
+patch 45: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++if((postCommentParam == null)){
+
+🚀
+patch 46: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.debug();
+
+🚀
+patch 47: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++postCommentService.add();
+
+🚀
+patch 48: 
+halo_1133avaj.rellortnoCtsoPipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        postCommentService.validateCommentBlackListStatus();
++if(postCommentParam){
+
+🚀
+patch 49: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
+🚀
+patch 50: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.comment(sheetCommentParam));
+🚀
+patch 51: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentParam);
+🚀
+patch 52: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return convertTo(sheetCommentParam);
+🚀
+patch 53: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.createBy(sheetCommentParam);
+🚀
+patch 54: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam), sheetCommentParam);
+🚀
+patch 55: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(createBy(sheetCommentParam));
+🚀
+patch 56: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.add(sheetCommentParam));
+🚀
+patch 57: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.debug(sheetCommentParam));
+🚀
+patch 58: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.get(sheetCommentParam));
+🚀
+patch 59: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam), false);
+🚀
+patch 60: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam), true);
+🚀
+patch 61: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam, false));
+🚀
+patch 62: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam, true));
+🚀
+patch 63: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return convertTo(sheetCommentService.createBy(sheetCommentParam));
+🚀
+patch 64: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam)));
+🚀
+patch 65: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++if((sheetCommentParam != null)){
+
+🚀
+patch 66: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.toString(sheetCommentParam));
+🚀
+patch 67: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentParam;
+🚀
+patch 68: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++if((sheetCommentParam == null)){
+return null;}
+🚀
+patch 69: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++if((sheetCommentParam == null)){
+
+🚀
+patch 70: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam), null);
+🚀
+patch 71: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentService.createBy(sheetCommentParam)));
+🚀
+patch 72: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.debug(sheetCommentService.createBy(sheetCommentParam));
+🚀
+patch 73: 
+halo_1119avaj.rellortnoCteehSipatnetnocrellortnocppaolahnuravajniamcrs1_olaholahsluvpmt-yh
+-        return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam));
++return sheetCommentService.convertTo(sheetCommentService.createBy(sheetCommentParam, null));
+🚀

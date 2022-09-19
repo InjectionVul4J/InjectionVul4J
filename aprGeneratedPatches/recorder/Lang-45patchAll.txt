@@ -1,0 +1,5770 @@
+patch 0: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((str == null)){
+
+🚀
+patch 1: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((searchStr == null)){
+
+🚀
+patch 2: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr == null))){
+🚀
+patch 3: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr >= null))){
+🚀
+patch 4: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr <= null))){
+🚀
+patch 5: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((startPos >= str.length())){
+
+🚀
+patch 6: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr > null))){
+🚀
+patch 7: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr != null))){
+🚀
+patch 8: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) && (searchStr == null))){
+🚀
+patch 9: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || ((searchStr == null) || (searchStr == null)))){
+
+🚀
+patch 10: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((searchStr.length() == 0)){
+
+🚀
+patch 11: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (searchStr == null))){
+
+🚀
+patch 12: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr < null))){
+🚀
+patch 13: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (str == null))){
+
+🚀
+patch 14: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (str != null))){
+
+🚀
+patch 15: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (searchStr != null))){
+
+🚀
+patch 16: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (startPos >= str.length()))){
+
+🚀
+patch 17: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(str){
+
+🚀
+patch 18: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((searchStr == null) || (searchStr == null))){
+🚀
+patch 19: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr != null)) || (searchStr == null))){
+
+🚀
+patch 20: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || ((searchStr == null) && (searchStr == null)))){
+
+🚀
+patch 21: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (str == null))){
+
+🚀
+patch 22: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (str == null)) || (searchStr == null))){
+
+🚀
+patch 23: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (str == null))){
+🚀
+patch 24: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr != null))){
+
+🚀
+patch 25: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (str != null))){
+
+🚀
+patch 26: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || ((searchStr == null) || (str == null)))){
+
+🚀
+patch 27: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || str)){
+
+🚀
+patch 28: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr - null))){
+🚀
+patch 29: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || searchStr)){
+
+🚀
+patch 30: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr.length() == 0))){
+
+🚀
+patch 31: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (searchStr == searchStr))){
+
+🚀
+patch 32: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || ((searchStr.length() == 0) && (startPos >= str.length())))){
+
+🚀
+patch 33: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || ((str == null) && (searchStr == null)))){
+
+🚀
+patch 34: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (searchStr == null))){
+
+🚀
+patch 35: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((searchStr.length() == 0) && (startPos >= str.length()))){
+
+🚀
+patch 36: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || (str == searchStr))){
+
+🚀
+patch 37: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((str || (searchStr == null))){
+
+🚀
+patch 38: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (str == searchStr))){
+
+🚀
+patch 39: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (searchStr.length() == 0))){
+
+🚀
+patch 40: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || ((str == null) || (str == null)))){
+
+🚀
+patch 41: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(!str){
+
+🚀
+patch 42: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if(((str == null) || searchStr)){
+
+🚀
+patch 43: 
+Lang45851avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || searchStr == null) {
++if((((str == null) || (searchStr == null)) || (searchStr == 0))){
+
+🚀
+patch 44: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos >= str.length()))){
+🚀
+patch 45: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos > str.length()))){
+🚀
+patch 46: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos <= str.length()))){
+🚀
+patch 47: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos < str.length()))){
+🚀
+patch 48: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if((startPos >= str.length())){
+
+🚀
+patch 49: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos == str.length()))){
+🚀
+patch 50: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos != str.length()))){
+🚀
+patch 51: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos >= searchStr.length()))){
+🚀
+patch 52: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if((searchStr.length() == 0)){
+
+🚀
+patch 53: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) || (startPos >= str.length()))){
+🚀
+patch 54: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos >= startPos.length()))){
+🚀
+patch 55: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() >= 0) && (startPos >= str.length()))){
+🚀
+patch 56: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() <= 0) && (startPos >= str.length()))){
+🚀
+patch 57: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos && str.length()))){
+🚀
+patch 58: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos >= str.length()))){
+
+🚀
+patch 59: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos || str.length()))){
+🚀
+patch 60: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() > 0) && (startPos >= str.length()))){
+🚀
+patch 62: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (searchStr >= str.length()))){
+🚀
+patch 63: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() != 0) && (startPos >= str.length()))){
+🚀
+patch 65: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((startPos.length() == 0) && (startPos >= str.length()))){
+🚀
+patch 66: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if((((searchStr.length() == 0) && (startPos >= str.length())) && (startPos >= str.length()))){
+
+🚀
+patch 67: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(str.length()){
+
+🚀
+patch 68: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((str.length() == 0) && (startPos >= str.length()))){
+🚀
+patch 69: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() < 0) && (startPos >= str.length()))){
+🚀
+patch 70: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos & str.length()))){
+🚀
+patch 71: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (searchStr.length() == 0))){
+
+🚀
+patch 74: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (str >= str.length()))){
+🚀
+patch 75: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (startPos >= str.indexOf()))){
+🚀
+patch 76: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if((((searchStr.length() == 0) && (searchStr.length() == 0)) && (startPos >= str.length()))){
+
+🚀
+patch 77: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(searchStr.length()){
+
+🚀
+patch 81: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++return -1;
+🚀
+patch 82: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if((((searchStr.length() == 0) && (startPos == 0)) && (startPos >= str.length()))){
+
+🚀
+patch 83: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if((((searchStr.length() == 0) && (searchStr == 0)) && (startPos >= str.length()))){
+
+🚀
+patch 84: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && ((startPos >= str.length()) && (startPos >= str.length())))){
+
+🚀
+patch 85: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && ((searchStr.length() == 0) && (startPos >= str.length())))){
+
+🚀
+patch 86: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && (str.length() == 0))){
+
+🚀
+patch 87: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((((searchStr.length() == 0) && (startPos >= str.length())) && (startPos >= str.length())) && (startPos >= str.length()))){
+
+🚀
+patch 89: 
+Lang45855avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (searchStr.length() == 0 && startPos >= str.length()) {
++if(((searchStr.length() == 0) && searchStr.length())){
+
+🚀
+patch 90: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.length(searchStr, startPos);
+🚀
+patch 91: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(searchStr, startPos);
+🚀
+patch 92: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return searchStr;
+🚀
+patch 93: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(startPos, startPos);
+🚀
+patch 94: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str;
+🚀
+patch 95: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(searchStr, searchStr);
+🚀
+patch 96: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return -1;
+🚀
+patch 97: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return indexOf(searchStr, startPos);
+🚀
+patch 98: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(searchStr);
+🚀
+patch 99: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.length();
+🚀
+patch 100: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(str, startPos);
+🚀
+patch 103: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(searchStr, str);
+🚀
+patch 104: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return -1;
+🚀
+patch 105: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.add(searchStr, startPos);
+🚀
+patch 106: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return searchStr.indexOf(searchStr, startPos);
+🚀
+patch 107: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.debug(searchStr, startPos);
+🚀
+patch 108: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(str, searchStr);
+🚀
+patch 109: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(startPos);
+🚀
+patch 110: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return 0;
+🚀
+patch 111: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return startPos;
+🚀
+patch 112: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.length();
+🚀
+patch 113: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return indexOf(str, startPos);
+🚀
+patch 116: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return startPos.indexOf(searchStr, startPos);
+🚀
+patch 117: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return searchStr;
+🚀
+patch 118: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(searchStr.length());
+🚀
+patch 119: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(EMPTY, searchStr);
+🚀
+patch 120: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(0, searchStr);
+🚀
+patch 121: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return indexOf(str, searchStr);
+🚀
+patch 122: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(str.indexOf(searchStr, startPos));
+🚀
+patch 123: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(str.length());
+🚀
+patch 124: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(startPos, searchStr);
+🚀
+patch 125: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return startPos;
+🚀
+patch 126: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.e(searchStr, startPos);
+🚀
+patch 127: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.max(searchStr, startPos);
+🚀
+patch 128: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return searchStr.indexOf();
+🚀
+patch 129: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(0, startPos);
+🚀
+patch 130: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return str.indexOf(null, searchStr);
+🚀
+patch 131: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return Math.indexOf(searchStr, startPos);
+🚀
+patch 132: 
+Lang45858avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str.indexOf(searchStr, startPos);
++return 0;
+🚀
+patch 133: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((str == null)){
+🚀
+patch 134: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((str != null)){
+🚀
+patch 135: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((str >= null)){
+🚀
+patch 136: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((str > null)){
+🚀
+patch 137: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((str <= null)){
+🚀
+patch 138: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (lower == null))){
+
+🚀
+patch 139: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((lower == null)){
+🚀
+patch 140: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (lower != null))){
+
+🚀
+patch 141: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((upper == null)){
+🚀
+patch 142: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (str != null))){
+
+🚀
+patch 143: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((upper > str.length())){
+
+🚀
+patch 144: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) && (lower == null))){
+
+🚀
+patch 145: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) && (str == null))){
+
+🚀
+patch 146: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) && (lower != null))){
+
+🚀
+patch 147: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((upper == -1)){
+
+🚀
+patch 148: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((str < null)){
+🚀
+patch 149: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) && (str != null))){
+
+🚀
+patch 150: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (lower == 0))){
+
+🚀
+patch 151: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (upper == -1))){
+
+🚀
+patch 152: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((str != null)){
+
+🚀
+patch 153: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (str == 0))){
+
+🚀
+patch 154: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || str.isEmpty())){
+
+🚀
+patch 155: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((appendToEnd == null)){
+🚀
+patch 156: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (lower == -1))){
+
+🚀
+patch 157: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || lower)){
+
+🚀
+patch 158: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++upper = str.length();
+
+🚀
+patch 159: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (str == -1))){
+
+🚀
+patch 160: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (str.length() == 0))){
+
+🚀
+patch 161: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++upper = lower;
+
+🚀
+patch 162: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (lower == upper))){
+
+🚀
+patch 163: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (lower != 0))){
+
+🚀
+patch 164: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) && (upper > str.length()))){
+
+🚀
+patch 165: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (upper < lower))){
+
+🚀
+patch 166: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str != null) || (str == null))){
+
+🚀
+patch 167: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (index == -1))){
+
+🚀
+patch 168: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) && (lower == 0))){
+
+🚀
+patch 169: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || !str.isEmpty())){
+
+🚀
+patch 170: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) && str.isEmpty())){
+
+🚀
+patch 171: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (str != 0))){
+
+🚀
+patch 172: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (lower == lower))){
+
+🚀
+patch 173: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (index > upper))){
+
+🚀
+patch 174: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) && (upper == -1))){
+
+🚀
+patch 176: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if((str || (str == null))){
+
+🚀
+patch 177: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (upper == null))){
+
+🚀
+patch 178: 
+Lang45607avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str == null) {
++if(((str == null) || (lower > null))){
+
+🚀
+patch 179: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return StringUtils.EMPTY;
+🚀
+patch 180: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return result.toString();
+🚀
+patch 181: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return 1;
+🚀
+patch 182: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return upper;
+🚀
+patch 183: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return lower;
+🚀
+patch 184: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return appendToEnd;
+🚀
+patch 185: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return str;
+🚀
+patch 186: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++upper = lower;
+
+🚀
+patch 187: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++upper = str.length();
+
+🚀
+patch 188: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++result.append(str.substring(0, upper));
+
+🚀
+patch 189: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return 2;
+🚀
+patch 190: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 191: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return result;
+🚀
+patch 192: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return StringUtils.EMPTY;
+🚀
+patch 193: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++
+🚀
+patch 194: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++result.append(str.substring(0, index));
+
+🚀
+patch 195: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return index;
+🚀
+patch 196: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return this;
+🚀
+patch 197: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return ;
+🚀
+patch 198: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return result.toString();
+🚀
+patch 199: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return str.length();
+🚀
+patch 200: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++continue;
+
+🚀
+patch 201: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return null;
+🚀
+patch 202: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return EMPTY;
+🚀
+patch 203: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return ;
+🚀
+patch 204: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return "null";
+🚀
+patch 205: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return upper;
+🚀
+patch 206: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return;
+
+🚀
+patch 207: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return (upper > str.length());
+🚀
+patch 208: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return lower;
+🚀
+patch 209: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return true;
+🚀
+patch 210: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++if((upper > str.length())){
+
+🚀
+patch 211: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return (upper == -1);
+🚀
+patch 212: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++if((str == null)){
+
+🚀
+patch 213: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++break;
+
+🚀
+patch 214: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++if((upper == -1)){
+
+🚀
+patch 215: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return;
+
+🚀
+patch 216: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return new StringBuffer();
+🚀
+patch 217: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++upper = null;
+
+🚀
+patch 218: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return false;
+🚀
+patch 219: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++if((upper != str.length())){
+
+🚀
+patch 220: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return -1;
+🚀
+patch 221: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return str;
+🚀
+patch 222: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return appendToEnd;
+🚀
+patch 223: 
+Lang45608avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return null;
++return str.substring(0, upper);
+🚀
+patch 224: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str.length() == 0)){
+🚀
+patch 225: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str.length() >= 0)){
+🚀
+patch 226: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str.length() != 0)){
+🚀
+patch 227: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str.length() <= 0)){
+🚀
+patch 228: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str.length() > 0)){
+🚀
+patch 229: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((lower.length() == 0)){
+🚀
+patch 230: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((upper.length() == 0)){
+🚀
+patch 231: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(str.length()){
+
+🚀
+patch 232: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((upper > str.length())){
+
+🚀
+patch 233: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((appendToEnd.length() == 0)){
+🚀
+patch 234: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((result.length() == 0)){
+🚀
+patch 235: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str.length() < 0)){
+🚀
+patch 236: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((upper == -1)){
+
+🚀
+patch 237: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++return null;
+🚀
+patch 238: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(str.isEmpty()){
+
+🚀
+patch 239: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(!str.length()){
+
+🚀
+patch 240: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(!str.isEmpty()){
+
+🚀
+patch 241: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((StringUtils.length() == 0)){
+🚀
+patch 242: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str.length() == 0) || (lower == 0))){
+
+🚀
+patch 243: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str.length() == 0) || (str.length() == 0))){
+
+🚀
+patch 244: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str.length() == 1)){
+🚀
+patch 245: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str != 0) || (str.length() == 0))){
+
+🚀
+patch 246: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++upper = str.length();
+
+🚀
+patch 247: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str == 0) || (str.length() == 0))){
+
+🚀
+patch 248: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str.length() == 0) || (lower != 0))){
+
+🚀
+patch 249: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++upper = lower;
+
+🚀
+patch 250: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((lower != 0) || (str.length() == 0))){
+
+🚀
+patch 251: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(lower){
+
+🚀
+patch 252: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(upper){
+
+🚀
+patch 253: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((lower == 0) || (str.length() == 0))){
+
+🚀
+patch 254: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str != 0)){
+
+🚀
+patch 255: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((lower != 0)){
+
+🚀
+patch 256: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str.length() == 0) || str.length())){
+
+🚀
+patch 257: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str.length() == 0) || (upper == 0))){
+
+🚀
+patch 258: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str.length() == 0) || (str == 0))){
+
+🚀
+patch 259: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((str == 0)){
+
+🚀
+patch 260: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if((lower == 0)){
+
+🚀
+patch 261: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((str != 0) && (str.length() == 0))){
+
+🚀
+patch 262: 
+Lang45610avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (str.length() == 0) {
++if(((lower != 0) && (str.length() == 0))){
+
+🚀
+patch 263: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return StringUtils.EMPTY;
+🚀
+patch 264: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return null;
+🚀
+patch 265: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return EMPTY;
+🚀
+patch 266: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return StringUtils.length;
+🚀
+patch 267: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return null;
+🚀
+patch 268: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return str.length();
+🚀
+patch 269: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return lower;
+🚀
+patch 270: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return upper;
+🚀
+patch 271: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return str;
+🚀
+patch 272: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++upper = lower;
+
+🚀
+patch 273: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++upper = str.length();
+
+🚀
+patch 274: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++
+🚀
+patch 275: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++result.append(str.substring(0, upper));
+
+🚀
+patch 276: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 277: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return result.toString();
+🚀
+patch 278: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++result.append(str.substring(0, index));
+
+🚀
+patch 279: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return result;
+🚀
+patch 280: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return appendToEnd;
+🚀
+patch 281: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return (upper > str.length());
+🚀
+patch 282: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return index;
+🚀
+patch 283: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return;
+
+🚀
+patch 284: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return "null";
+🚀
+patch 285: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++if((upper == -1)){
+
+🚀
+patch 286: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++if((upper > str.length())){
+
+🚀
+patch 287: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return str.EMPTY;
+🚀
+patch 288: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return StringUtils.EMPTY();
+🚀
+patch 289: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return (upper == -1);
+🚀
+patch 290: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return result.toString();
+🚀
+patch 291: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return StringUtils.str;
+🚀
+patch 292: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return -EMPTY;
+🚀
+patch 293: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return StringUtils.abbreviate();
+🚀
+patch 294: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++if((str.length() == 0)){
+
+🚀
+patch 295: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return this.EMPTY;
+🚀
+patch 296: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return !EMPTY;
+🚀
+patch 297: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return StringUtils.toString;
+🚀
+patch 298: 
+Lang45611avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            return StringUtils.EMPTY;
++return 0;
+🚀
+patch 351: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = lower.length();
+
+🚀
+patch 352: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = upper.length();
+
+🚀
+patch 353: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = result.length();
+
+🚀
+patch 354: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = appendToEnd.length();
+
+🚀
+patch 355: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = lower;
+
+🚀
+patch 356: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.length();
+
+🚀
+patch 357: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++appendToEnd = str.length();
+
+🚀
+patch 358: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++
+🚀
+patch 359: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++str.length();
+
+🚀
+patch 360: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++result.append(str.substring(0, upper));
+
+🚀
+patch 361: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 362: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++result = str.length();
+
+🚀
+patch 363: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.length(upper);
+
+🚀
+patch 365: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++result.append(str.substring(0, index));
+
+🚀
+patch 366: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++lower = str.length();
+
+🚀
+patch 367: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = lower;
+
+🚀
+patch 368: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++if((upper > str.length())){
+
+🚀
+patch 369: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.length(lower);
+
+🚀
+patch 371: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++return;
+
+🚀
+patch 372: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++return null;
+🚀
+patch 373: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 374: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.length(appendToEnd);
+
+🚀
+patch 375: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = StringUtils.length();
+
+🚀
+patch 376: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++result.append(str.substring(0, upper));
+
+🚀
+patch 377: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = upper;
+
+🚀
+patch 378: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.length(0, upper);
+
+🚀
+patch 379: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++str = str.length();
+
+🚀
+patch 381: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++if(((upper == -1) || (upper > str.length()))){
+
+🚀
+patch 382: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.substring(0, upper);
+
+🚀
+patch 383: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++if((upper != str.length())){
+
+🚀
+patch 384: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++return null;
+🚀
+patch 385: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.length(0);
+
+🚀
+patch 386: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++result.append(str.substring(0, index));
+
+🚀
+patch 387: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = null;
+
+🚀
+patch 388: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++if((upper == -1)){
+
+🚀
+patch 389: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++return StringUtils.EMPTY;
+🚀
+patch 390: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++e = str.length();
+
+🚀
+patch 391: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.abbreviate();
+
+🚀
+patch 392: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++index = str.length();
+
+🚀
+patch 394: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++return str.length();
+🚀
+patch 395: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str.length(str, "null", lower);
+
+🚀
+patch 396: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++upper = str;
+
+🚀
+patch 397: 
+Lang45619avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = str.length();
++if((index > upper)){
+
+🚀
+patch 398: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper >= lower)){
+🚀
+patch 399: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper <= lower)){
+🚀
+patch 400: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++upper = lower;
+
+🚀
+patch 401: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++upper = str.length();
+
+🚀
+patch 402: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper < upper)){
+🚀
+patch 403: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 404: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper < lower)){
+🚀
+patch 405: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++result.append(str.substring(0, upper));
+
+🚀
+patch 406: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper > lower)){
+🚀
+patch 407: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper < result)){
+🚀
+patch 408: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++result.append(str.substring(0, index));
+
+🚀
+patch 409: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((result < lower)){
+🚀
+patch 410: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper < appendToEnd)){
+🚀
+patch 411: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++return null;
+🚀
+patch 412: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((appendToEnd < lower)){
+🚀
+patch 413: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper < index)){
+🚀
+patch 414: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper > str.length())){
+
+🚀
+patch 415: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper == lower)){
+🚀
+patch 416: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((lower < lower)){
+🚀
+patch 417: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(upper){
+
+🚀
+patch 418: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((index < lower)){
+🚀
+patch 419: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++return StringUtils.EMPTY;
+🚀
+patch 420: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper == -1)){
+
+🚀
+patch 421: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++break;
+
+🚀
+patch 422: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(lower){
+
+🚀
+patch 423: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++return;
+
+🚀
+patch 424: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(((upper < lower) || (upper < upper))){
+
+🚀
+patch 427: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper < str)){
+🚀
+patch 430: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((str < lower)){
+🚀
+patch 431: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper > str.length())){
+
+🚀
+patch 432: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper == -1)){
+
+🚀
+patch 433: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++return result.toString();
+🚀
+patch 434: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(!upper){
+
+🚀
+patch 435: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper < upper)){
+
+🚀
+patch 436: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper != lower)){
+🚀
+patch 437: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(((upper < lower) || upper)){
+
+🚀
+patch 438: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(((upper < lower) || (upper > upper))){
+
+🚀
+patch 439: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(((upper < lower) || (upper < lower))){
+
+🚀
+patch 440: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(((upper < lower) || (upper > str.length()))){
+
+🚀
+patch 441: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(((upper < lower) || (lower < upper))){
+
+🚀
+patch 443: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(((upper < lower) || (upper == -1))){
+
+🚀
+patch 444: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if(((upper < lower) && (upper < upper))){
+
+🚀
+patch 445: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((upper != str.length())){
+
+🚀
+patch 447: 
+Lang45622avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        if (upper < lower) {
++if((lower < upper)){
+
+🚀
+patch 448: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++
+🚀
+patch 449: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = str.length();
+
+🚀
+patch 450: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = upper;
+
+🚀
+patch 451: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++result.append(str.substring(0, upper));
+
+🚀
+patch 452: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = lower;
+
+🚀
+patch 453: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = appendToEnd;
+
+🚀
+patch 454: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 455: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = str.length();
+
+🚀
+patch 456: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++result.append(str.substring(0, index));
+
+🚀
+patch 457: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++appendToEnd = lower;
+
+🚀
+patch 458: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 459: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++result.append(str.substring(0, upper));
+
+🚀
+patch 460: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = null;
+
+🚀
+patch 461: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++result.append(str.substring(0, index));
+
+🚀
+patch 462: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = result;
+
+🚀
+patch 464: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++return null;
+🚀
+patch 465: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++result = lower;
+
+🚀
+patch 466: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++if((upper < lower)){
+
+🚀
+patch 467: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++lower = lower;
+
+🚀
+patch 468: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++if((upper != str.length())){
+
+🚀
+patch 469: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++return null;
+🚀
+patch 470: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++if((upper > str.length())){
+
+🚀
+patch 472: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++if((upper == -1)){
+
+🚀
+patch 473: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++if((index > upper)){
+
+🚀
+patch 474: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++return;
+
+🚀
+patch 475: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = str;
+
+🚀
+patch 476: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++return StringUtils.EMPTY;
+🚀
+patch 477: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++if((index == -1)){
+
+🚀
+patch 478: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++index = lower;
+
+🚀
+patch 479: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++return StringUtils.EMPTY;
+🚀
+patch 480: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = index;
+
+🚀
+patch 481: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++str = lower;
+
+🚀
+patch 482: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = false;
+
+🚀
+patch 483: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++return upper;
+🚀
+patch 484: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = e;
+
+🚀
+patch 485: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = lower.length();
+
+🚀
+patch 486: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = true;
+
+🚀
+patch 487: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = (upper > str.length());
+
+🚀
+patch 488: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = upper;
+
+🚀
+patch 489: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = (upper == -1);
+
+🚀
+patch 490: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++if((upper != 0)){
+
+🚀
+patch 492: 
+Lang45623avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            upper = lower;
++upper = null;
+
+🚀
+patch 493: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++upper = lower;
+
+🚀
+patch 494: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++return null;
+🚀
+patch 495: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(lower);
+
+🚀
+patch 496: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++upper = str.length();
+
+🚀
+patch 497: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++result.append(str.substring(0, upper));
+
+🚀
+patch 498: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++return StringUtils.EMPTY;
+🚀
+patch 499: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++return;
+
+🚀
+patch 500: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 501: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(upper);
+
+🚀
+patch 502: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++result.append(str.substring(0, index));
+
+🚀
+patch 503: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(str, "null", lower);
+
+🚀
+patch 504: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(str);
+
+🚀
+patch 505: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(appendToEnd);
+
+🚀
+patch 506: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++final StringBuffer result = new StringBuffer();
+
+🚀
+patch 507: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((upper == -1)){
+
+🚀
+patch 508: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((upper > str.length())){
+
+🚀
+patch 509: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++break;
+
+🚀
+patch 510: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((lower != 0)){
+
+🚀
+patch 511: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(0, upper);
+
+🚀
+patch 512: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((upper != 0)){
+
+🚀
+patch 513: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++upper = null;
+
+🚀
+patch 514: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++upper = new StringBuffer();
+
+🚀
+patch 515: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((lower != null)){
+
+🚀
+patch 516: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++return result.toString();
+🚀
+patch 517: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((upper != str.length())){
+
+🚀
+patch 518: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((upper != null)){
+
+🚀
+patch 519: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(null);
+
+🚀
+patch 520: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(this);
+
+🚀
+patch 521: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++return upper;
+🚀
+patch 522: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++upper = upper;
+
+🚀
+patch 523: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++int index = StringUtils.indexOf(str, "null", lower);
+
+🚀
+patch 524: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++
+🚀
+patch 525: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((index == -1)){
+
+🚀
+patch 526: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer("null");
+
+🚀
+patch 528: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++result = new StringBuffer();
+
+🚀
+patch 529: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((upper < lower)){
+
+🚀
+patch 530: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(false);
+
+🚀
+patch 531: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++StringBuffer result = new StringBuffer(0);
+
+🚀
+patch 532: 
+Lang45626avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        StringBuffer result = new StringBuffer();
++if((str == null)){
+
+🚀
+patch 533: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(result, "null", lower);
+
+🚀
+patch 534: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, "null", result);
+
+🚀
+patch 535: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, 1, lower);
+
+🚀
+patch 536: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, "null", lower);
+
+🚀
+patch 537: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, null, lower);
+
+🚀
+patch 538: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.defaultString(str, "null", lower);
+
+🚀
+patch 539: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(lower, "null", lower);
+
+🚀
+patch 540: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(upper, "null", lower);
+
+🚀
+patch 541: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, "null", str);
+
+🚀
+patch 542: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.abbreviate(str, "null", lower);
+
+🚀
+patch 543: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, "null", upper);
+
+🚀
+patch 544: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = result.indexOf(str, "null", lower);
+
+🚀
+patch 545: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str);
+
+🚀
+patch 546: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, lower);
+
+🚀
+patch 547: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++long index = StringUtils.indexOf(str, "null", lower);
+
+🚀
+patch 548: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(appendToEnd, "null", lower);
+
+🚀
+patch 549: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, 2, lower);
+
+🚀
+patch 550: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, "null", appendToEnd);
+
+🚀
+patch 551: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, false, lower);
+
+🚀
+patch 552: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = indexOf(str, "null", lower);
+
+🚀
+patch 553: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, true, lower);
+
+🚀
+patch 554: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.lastIndexOf(str, "null", lower);
+
+🚀
+patch 555: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, lower, upper);
+
+🚀
+patch 556: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = str.indexOf(str, "null", lower);
+
+🚀
+patch 557: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, lower, "null");
+
+🚀
+patch 558: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.substring(str, "null", lower);
+
+🚀
+patch 559: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(lower);
+
+🚀
+patch 560: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.append(str, "null", lower);
+
+🚀
+patch 561: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, "null");
+
+🚀
+patch 562: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++StringUtils.indexOf(str, "null", lower);
+
+🚀
+patch 563: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = (int)StringUtils.indexOf(str, "null", lower);
+
+🚀
+patch 564: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(index, "null", lower);
+
+🚀
+patch 565: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, upper);
+
+🚀
+patch 566: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, "null", "null");
+
+🚀
+patch 567: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, "null", index);
+
+🚀
+patch 568: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = LOG.indexOf(str, "null", lower);
+
+🚀
+patch 569: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(lower, upper);
+
+🚀
+patch 570: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, lower, appendToEnd);
+
+🚀
+patch 571: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(lower, "null", upper);
+
+🚀
+patch 572: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf("null", lower);
+
+🚀
+patch 573: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++final int index = StringUtils.indexOf(str, "null", lower);
+
+🚀
+patch 574: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf("null");
+
+🚀
+patch 575: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(appendToEnd);
+
+🚀
+patch 576: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(lower, "null");
+
+🚀
+patch 577: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf(str, upper, "null");
+
+🚀
+patch 578: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf("null", "null", lower);
+
+🚀
+patch 579: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf("null", str, upper);
+
+🚀
+patch 581: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = Math.indexOf(str, "null", lower);
+
+🚀
+patch 582: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++int index = StringUtils.indexOf("null", str);
+
+🚀
+patch 583: 
+Lang45627avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        int index = StringUtils.indexOf(str, " ", lower);
++index = StringUtils.indexOf(str, "null", lower);
+
+🚀
+patch 638: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(1, upper));
+
+🚀
+patch 639: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, index));
+
+🚀
+patch 640: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, result));
+
+🚀
+patch 641: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(result.substring(0, upper));
+
+🚀
+patch 642: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(2, upper));
+
+🚀
+patch 643: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(upper);
+
+🚀
+patch 644: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(index.substring(0, upper));
+
+🚀
+patch 645: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, upper));
+
+🚀
+patch 646: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(0, upper);
+
+🚀
+patch 647: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(lower.substring(0, upper));
+
+🚀
+patch 648: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, str));
+
+🚀
+patch 649: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = str.length();
+
+🚀
+patch 650: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = lower;
+
+🚀
+patch 652: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++
+🚀
+patch 653: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, lower));
+
+🚀
+patch 654: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(lower);
+
+🚀
+patch 655: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 657: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.defaultString(0, upper));
+
+🚀
+patch 658: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(appendToEnd);
+
+🚀
+patch 659: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.length());
+
+🚀
+patch 660: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(upper));
+
+🚀
+patch 661: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str);
+
+🚀
+patch 662: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++return null;
+🚀
+patch 663: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, appendToEnd));
+
+🚀
+patch 664: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.abbreviate(0, upper));
+
+🚀
+patch 665: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = lower;
+
+🚀
+patch 667: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = str.length();
+
+🚀
+patch 669: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.indexOf(0, upper));
+
+🚀
+patch 670: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(upper.substring(0, upper));
+
+🚀
+patch 671: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, upper));
+
+🚀
+patch 672: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 673: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, index));
+
+🚀
+patch 674: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(appendToEnd));
+
+🚀
+patch 675: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++str.append(str.substring(0, upper));
+
+🚀
+patch 676: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = result.append(str.substring(0, upper));
+
+🚀
+patch 677: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(lower.substring(upper));
+
+🚀
+patch 678: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++if((index == -1)){
+
+🚀
+patch 679: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++return result.append(str.substring(0, upper));
+🚀
+patch 681: 
+Lang45629avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++return result.append(0, upper);
+🚀
+patch 682: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != lower.length())){
+🚀
+patch 683: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper >= str.length())){
+🚀
+patch 684: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper == str.length())){
+🚀
+patch 685: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper <= str.length())){
+🚀
+patch 686: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != upper.length())){
+🚀
+patch 687: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != str.length())){
+🚀
+patch 688: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if(str.length()){
+
+🚀
+patch 689: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper > str.length())){
+🚀
+patch 690: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((result != str.length())){
+🚀
+patch 691: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != result.length())){
+🚀
+patch 692: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++result.append(str.substring(0, upper));
+
+🚀
+patch 693: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 694: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++upper = lower;
+
+🚀
+patch 695: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper < str.length())){
+🚀
+patch 696: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++upper = str.length();
+
+🚀
+patch 697: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++result.append(str.substring(0, index));
+
+🚀
+patch 698: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != appendToEnd.length())){
+🚀
+patch 699: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper > str.length())){
+
+🚀
+patch 700: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != StringUtils.length())){
+🚀
+patch 701: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper == -1)){
+
+🚀
+patch 702: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != str.defaultString())){
+🚀
+patch 703: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((lower != str.length())){
+🚀
+patch 704: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((appendToEnd != str.length())){
+🚀
+patch 705: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++return null;
+🚀
+patch 706: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((index != str.length())){
+🚀
+patch 707: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if(upper){
+
+🚀
+patch 708: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((str != str.length())){
+🚀
+patch 709: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++return StringUtils.EMPTY;
+🚀
+patch 710: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != str.length())){
+
+🚀
+patch 711: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if(lower){
+
+🚀
+patch 712: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if(!upper){
+
+🚀
+patch 713: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != str.substring())){
+🚀
+patch 714: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++return result.toString();
+🚀
+patch 715: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++break;
+
+🚀
+patch 716: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++return;
+
+🚀
+patch 717: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((lower != str.length())){
+
+🚀
+patch 718: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper != str.toString())){
+🚀
+patch 719: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper > str.length())){
+
+🚀
+patch 721: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper && str.length())){
+🚀
+patch 722: 
+Lang45631avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            if (upper != str.length()) {
++if((upper - str.length())){
+🚀
+patch 723: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 724: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.indexOf(appendToEnd));
+
+🚀
+patch 725: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(appendToEnd);
+
+🚀
+patch 726: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(result));
+
+🚀
+patch 727: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.toString(appendToEnd));
+
+🚀
+patch 728: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(upper));
+
+🚀
+patch 729: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.substring(appendToEnd));
+
+🚀
+patch 730: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.abbreviate(appendToEnd));
+
+🚀
+patch 731: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++upper = str.length();
+
+🚀
+patch 732: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(lower));
+
+🚀
+patch 733: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++upper = lower;
+
+🚀
+patch 734: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(upper);
+
+🚀
+patch 735: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(index));
+
+🚀
+patch 736: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(str));
+
+🚀
+patch 737: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, upper));
+
+🚀
+patch 738: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.length(appendToEnd));
+
+🚀
+patch 739: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++
+🚀
+patch 740: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, index));
+
+🚀
+patch 741: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(result.defaultString(appendToEnd));
+
+🚀
+patch 742: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.defaultString(appendToEnd));
+
+🚀
+patch 743: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, upper));
+
+🚀
+patch 744: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++upper = lower;
+
+🚀
+patch 745: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++upper = str.length();
+
+🚀
+patch 746: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 747: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, index));
+
+🚀
+patch 748: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(defaultString(appendToEnd));
+
+🚀
+patch 749: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(lower);
+
+🚀
+patch 750: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 751: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++return null;
+🚀
+patch 752: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.length());
+
+🚀
+patch 753: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 754: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++if((upper != str.length())){
+
+🚀
+patch 755: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append();
+
+🚀
+patch 756: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 757: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++return result.append(appendToEnd);
+🚀
+patch 758: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(upper, appendToEnd));
+
+🚀
+patch 759: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++return null;
+🚀
+patch 760: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd, appendToEnd));
+
+🚀
+patch 761: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++return result.append(StringUtils.defaultString(appendToEnd));
+🚀
+patch 762: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(lower.defaultString(appendToEnd));
+
+🚀
+patch 763: 
+Lang45632avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-                result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(str.length()));
+
+🚀
+patch 768: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 771: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++result.append(str.substring(0, index));
+
+🚀
+patch 772: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++result.append(str.substring(0, upper));
+
+🚀
+patch 773: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++upper = lower;
+
+🚀
+patch 775: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++upper = str.length();
+
+🚀
+patch 782: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++return result.toString();
+🚀
+patch 783: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++return null;
+🚀
+patch 784: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++return StringUtils.EMPTY;
+🚀
+patch 789: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++break;
+
+🚀
+patch 791: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++return;
+
+🚀
+patch 795: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++if((upper > str.length())){
+
+🚀
+patch 796: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++if((upper == -1)){
+
+🚀
+patch 799: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++return result;
+🚀
+patch 803: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++result.append(appendToEnd);
+
+🚀
+patch 806: 
+Lang45634avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        } else if (index > upper) {
++if((upper != str.length())){
+
+🚀
+patch 807: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(1, upper));
+
+🚀
+patch 808: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, index));
+
+🚀
+patch 809: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++
+🚀
+patch 810: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, result));
+
+🚀
+patch 811: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(upper);
+
+🚀
+patch 812: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(result.substring(0, upper));
+
+🚀
+patch 813: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, upper));
+
+🚀
+patch 814: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(0, upper);
+
+🚀
+patch 815: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = str.length();
+
+🚀
+patch 816: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(2, upper));
+
+🚀
+patch 817: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = lower;
+
+🚀
+patch 818: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 819: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(lower);
+
+🚀
+patch 820: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(index.substring(0, upper));
+
+🚀
+patch 821: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(lower.substring(0, upper));
+
+🚀
+patch 822: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, str));
+
+🚀
+patch 824: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++return null;
+🚀
+patch 825: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.length());
+
+🚀
+patch 826: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, lower));
+
+🚀
+patch 827: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(appendToEnd);
+
+🚀
+patch 828: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 829: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(upper));
+
+🚀
+patch 830: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = lower;
+
+🚀
+patch 831: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, upper));
+
+🚀
+patch 832: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str);
+
+🚀
+patch 833: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, index));
+
+🚀
+patch 835: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = str.length();
+
+🚀
+patch 836: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.defaultString(0, upper));
+
+🚀
+patch 837: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(appendToEnd));
+
+🚀
+patch 838: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++str.append(str.substring(0, upper));
+
+🚀
+patch 839: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++return StringUtils.EMPTY;
+🚀
+patch 840: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(substring(0, upper));
+
+🚀
+patch 841: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(0, appendToEnd));
+
+🚀
+patch 842: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++upper = result.append(str.substring(0, upper));
+
+🚀
+patch 843: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.abbreviate(0, upper));
+
+🚀
+patch 844: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++return result.append(0, upper);
+🚀
+patch 845: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.substring(lower));
+
+🚀
+patch 846: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++return result.append(str.substring(0, upper));
+🚀
+patch 848: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(str.indexOf(0, upper));
+
+🚀
+patch 849: 
+Lang45635avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, upper));
++result.append(lower.substring(upper));
+
+🚀
+patch 850: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(result));
+
+🚀
+patch 851: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(appendToEnd);
+
+🚀
+patch 852: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 853: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(upper));
+
+🚀
+patch 854: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.indexOf(appendToEnd));
+
+🚀
+patch 855: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(lower));
+
+🚀
+patch 856: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.toString(appendToEnd));
+
+🚀
+patch 857: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(str));
+
+🚀
+patch 858: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++
+🚀
+patch 859: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(index));
+
+🚀
+patch 860: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.abbreviate(appendToEnd));
+
+🚀
+patch 861: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.substring(appendToEnd));
+
+🚀
+patch 862: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(upper);
+
+🚀
+patch 863: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, upper));
+
+🚀
+patch 864: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++upper = str.length();
+
+🚀
+patch 865: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++upper = lower;
+
+🚀
+patch 866: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, index));
+
+🚀
+patch 867: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(result.defaultString(appendToEnd));
+
+🚀
+patch 868: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.length(appendToEnd));
+
+🚀
+patch 869: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 870: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.defaultString(appendToEnd));
+
+🚀
+patch 871: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, upper));
+
+🚀
+patch 872: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(defaultString(appendToEnd));
+
+🚀
+patch 873: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 874: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, index));
+
+🚀
+patch 875: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 876: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++upper = lower;
+
+🚀
+patch 877: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 878: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.length());
+
+🚀
+patch 879: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++upper = str.length();
+
+🚀
+patch 880: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append();
+
+🚀
+patch 881: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(lower);
+
+🚀
+patch 882: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++if((upper != str.length())){
+
+🚀
+patch 883: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append();
+
+🚀
+patch 884: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd, appendToEnd));
+
+🚀
+patch 885: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(upper, appendToEnd));
+
+🚀
+patch 886: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++str.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 887: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(str.length()));
+
+🚀
+patch 888: 
+Lang45636avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++return null;
+🚀
+patch 889: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(1, index));
+
+🚀
+patch 890: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++
+🚀
+patch 891: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(result.substring(0, index));
+
+🚀
+patch 892: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(2, index));
+
+🚀
+patch 893: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(index);
+
+🚀
+patch 894: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(0, index);
+
+🚀
+patch 895: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(0, result));
+
+🚀
+patch 896: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(0, upper));
+
+🚀
+patch 897: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 898: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(0, upper));
+
+🚀
+patch 899: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(0, index));
+
+🚀
+patch 900: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++upper = lower;
+
+🚀
+patch 901: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++upper = str.length();
+
+🚀
+patch 902: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(lower.substring(0, index));
+
+🚀
+patch 903: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(0, appendToEnd));
+
+🚀
+patch 904: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++upper = lower;
+
+🚀
+patch 905: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 906: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++upper = str.length();
+
+🚀
+patch 907: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(appendToEnd));
+
+🚀
+patch 908: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(appendToEnd);
+
+🚀
+patch 909: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(0, lower));
+
+🚀
+patch 910: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(0, str));
+
+🚀
+patch 911: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.defaultString(0, index));
+
+🚀
+patch 912: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(upper.substring(0, index));
+
+🚀
+patch 913: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.substring(index));
+
+🚀
+patch 914: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++return null;
+🚀
+patch 915: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str);
+
+🚀
+patch 916: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++return null;
+🚀
+patch 917: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(StringUtils.substring(0, index));
+
+🚀
+patch 918: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++str.append(str.substring(0, index));
+
+🚀
+patch 919: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++return StringUtils.EMPTY;
+🚀
+patch 921: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++return result.append(0, index);
+🚀
+patch 922: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(str.abbreviate(0, index));
+
+🚀
+patch 923: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++return result.toString();
+🚀
+patch 924: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(index.substring(0, index));
+
+🚀
+patch 925: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(result);
+
+🚀
+patch 927: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++break;
+
+🚀
+patch 928: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(substring(0, index));
+
+🚀
+patch 929: 
+Lang45638avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(str.substring(0, index));
++result.append(appendToEnd.substring(0, index));
+
+🚀
+patch 930: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 931: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(appendToEnd);
+
+🚀
+patch 932: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.indexOf(appendToEnd));
+
+🚀
+patch 933: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.toString(appendToEnd));
+
+🚀
+patch 934: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(result));
+
+🚀
+patch 935: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.substring(appendToEnd));
+
+🚀
+patch 936: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(upper));
+
+🚀
+patch 937: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.abbreviate(appendToEnd));
+
+🚀
+patch 938: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(upper);
+
+🚀
+patch 939: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++upper = str.length();
+
+🚀
+patch 940: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++
+🚀
+patch 941: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, index));
+
+🚀
+patch 942: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++upper = lower;
+
+🚀
+patch 943: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.append(appendToEnd));
+
+🚀
+patch 944: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, upper));
+
+🚀
+patch 945: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(lower));
+
+🚀
+patch 946: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, index));
+
+🚀
+patch 947: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.substring(0, upper));
+
+🚀
+patch 948: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(str));
+
+🚀
+patch 949: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(index));
+
+🚀
+patch 950: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 951: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++upper = lower;
+
+🚀
+patch 952: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(result.defaultString(appendToEnd));
+
+🚀
+patch 953: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(defaultString(appendToEnd));
+
+🚀
+patch 954: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++upper = str.length();
+
+🚀
+patch 955: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.defaultString(appendToEnd));
+
+🚀
+patch 956: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append();
+
+🚀
+patch 957: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(lower);
+
+🚀
+patch 958: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(str.length());
+
+🚀
+patch 959: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 960: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append();
+
+🚀
+patch 961: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 962: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++if((upper != str.length())){
+
+🚀
+patch 963: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString());
+
+🚀
+patch 964: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(appendToEnd, appendToEnd));
+
+🚀
+patch 965: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(StringUtils.defaultString(upper, appendToEnd));
+
+🚀
+patch 966: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++return null;
+🚀
+patch 967: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.append(appendToEnd);
+
+🚀
+patch 968: 
+Lang45639avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-            result.append(StringUtils.defaultString(appendToEnd));
++result.defaultString(appendToEnd);
+
+🚀
+patch 969: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append(str.substring(0, index));
+
+🚀
+patch 970: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append(StringUtils.defaultString(appendToEnd));
+
+🚀
+patch 971: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append(str.substring(0, upper));
+
+🚀
+patch 972: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return null;
+🚀
+patch 973: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString();
+🚀
+patch 974: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result;
+🚀
+patch 975: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++upper = lower;
+
+🚀
+patch 976: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.defaultString();
+🚀
+patch 977: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++upper = str.length();
+
+🚀
+patch 978: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return StringUtils.EMPTY;
+🚀
+patch 979: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return null;
+🚀
+patch 980: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return StringUtils.EMPTY;
+🚀
+patch 981: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.append();
+🚀
+patch 982: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString(appendToEnd);
+🚀
+patch 983: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append("null");
+
+🚀
+patch 984: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString(upper);
+🚀
+patch 985: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return lower.toString();
+🚀
+patch 986: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append(appendToEnd);
+
+🚀
+patch 987: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString("null");
+🚀
+patch 988: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return str;
+🚀
+patch 989: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append(false);
+
+🚀
+patch 990: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString(lower);
+🚀
+patch 991: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append();
+
+🚀
+patch 992: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return toString();
+🚀
+patch 993: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString().toString();
+🚀
+patch 994: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return str.toString();
+🚀
+patch 995: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return StringUtils.toString();
+🚀
+patch 996: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append(true);
+
+🚀
+patch 997: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append(upper);
+
+🚀
+patch 998: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++if((upper > str.length())){
+
+🚀
+patch 999: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString(false);
+🚀
+patch 1000: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return str.length();
+🚀
+patch 1001: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return toString(appendToEnd);
+🚀
+patch 1002: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString(this);
+🚀
+patch 1003: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++result.append(lower);
+
+🚀
+patch 1004: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result;
+🚀
+patch 1005: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++
+🚀
+patch 1006: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return lower;
+🚀
+patch 1007: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.toString(true);
+🚀
+patch 1008: 
+Lang45641avaj.slitUdroWgnalsnommocehcapagroavajcrsyggub
+-        return result.toString();
++return result.indexOf();
+🚀
+patch 1009: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:str;
+🚀
+patch 1010: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?str:str;
+🚀
+patch 1011: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY.EMPTY:str;
+🚀
+patch 1012: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:EMPTY;
+🚀
+patch 1013: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (EMPTY + null);
+🚀
+patch 1014: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null) + null);
+🚀
+patch 1015: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str != null))?EMPTY:str;
+🚀
+patch 1016: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((EMPTY == null))?EMPTY:str;
+🚀
+patch 1017: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:(str == null);
+🚀
+patch 1018: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (String)((str == null))?EMPTY:str;
+🚀
+patch 1019: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null) + str);
+🚀
+patch 1020: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return str;
+🚀
+patch 1021: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:null;
+🚀
+patch 1023: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:((str == null))?EMPTY:str;
+🚀
+patch 1024: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return EMPTY;
+🚀
+patch 1025: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null) + EMPTY);
+🚀
+patch 1026: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:this.EMPTY;
+🚀
+patch 1027: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (String)EMPTY;
+🚀
+patch 1028: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (EMPTY + str);
+🚀
+patch 1029: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?(String)str:str;
+🚀
+patch 1030: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:((EMPTY == null))?EMPTY:str;
+🚀
+patch 1031: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?str.EMPTY:str;
+🚀
+patch 1032: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (str == null);
+🚀
+patch 1033: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (str + null);
+🚀
+patch 1034: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?null:str;
+🚀
+patch 1035: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (String)str;
+🚀
+patch 1036: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((EMPTY != null))?EMPTY:str;
+🚀
+patch 1037: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?(String)EMPTY:str;
+🚀
+patch 1038: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:(EMPTY == null);
+🚀
+patch 1039: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?this.EMPTY:str;
+🚀
+patch 1040: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (str)?EMPTY:str;
+🚀
+patch 1041: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:(str != null);
+🚀
+patch 1042: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (str.isEmpty())?EMPTY:str;
+🚀
+patch 1043: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++if((str == null)){
+return null;}
+🚀
+patch 1044: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++super.defaultString();
+
+🚀
+patch 1045: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:(EMPTY + null);
+🚀
+patch 1046: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (((str == null) && (str == null)))?EMPTY:str;
+🚀
+patch 1047: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return ((str == null))?EMPTY:(str + null);
+🚀
+patch 1048: 
+Lang455279avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null ? EMPTY : str;
++return (EMPTY)?EMPTY:str;
+🚀
+patch 1049: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super.StringUtils();
+
+🚀
+patch 1051: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super.StringUtils();
+
+🚀
+patch 1052: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super(this);
+
+🚀
+patch 1053: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super(true);
+
+🚀
+patch 1054: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super(false);
+
+🚀
+patch 1055: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super("null");
+
+🚀
+patch 1056: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++
+🚀
+patch 1057: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super(null);
+
+🚀
+patch 1058: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super.StringUtils(this);
+
+🚀
+patch 1060: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super.StringUtils();
+
+🚀
+patch 1061: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super(0);
+
+🚀
+patch 1062: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super();
+
+🚀
+patch 1063: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++this(this);;
+
+🚀
+patch 1064: 
+Lang45167avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        super();
++super.StringUtils(true);
+
+🚀
+patch 1065: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (str == null);
+🚀
+patch 1066: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (str.length() == 0);
+🚀
+patch 1067: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() == 0));
+🚀
+patch 1068: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) && (str.length() == 0));
+🚀
+patch 1069: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return str.length();
+🚀
+patch 1070: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() != 0));
+🚀
+patch 1071: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || (str == null));
+🚀
+patch 1072: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str == 0));
+🚀
+patch 1073: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str == null));
+🚀
+patch 1074: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || ((str == null) || (str.length() == 0)));
+🚀
+patch 1075: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str != null));
+🚀
+patch 1076: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str != 0));
+🚀
+patch 1077: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() > 0));
+🚀
+patch 1078: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || (str.length() == 0));
+🚀
+patch 1079: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || ((str == null) || (str.length() == 0)));
+🚀
+patch 1080: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() == false));
+🚀
+patch 1081: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || (str == 0));
+🚀
+patch 1082: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == false) || (str.length() == 0));
+🚀
+patch 1083: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() >= 0));
+🚀
+patch 1084: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || (str != null));
+🚀
+patch 1085: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.isEmpty() == 0));
+🚀
+patch 1086: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() == null));
+🚀
+patch 1087: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || (str != 0));
+🚀
+patch 1088: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((((str == null) || (str.length() == 0)) || (str.length() == 0)) || (str.length() == 0));
+🚀
+patch 1089: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() == str));
+🚀
+patch 1090: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((((str == null) || (str.length() == 0)) || (str == null)) || (str.length() == 0));
+🚀
+patch 1091: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() < 0));
+🚀
+patch 1092: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() <= 0));
+🚀
+patch 1093: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == true) || (str.length() == 0));
+🚀
+patch 1094: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() == true));
+🚀
+patch 1095: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.length() != null));
+🚀
+patch 1096: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str == null)) || (str.length() == 0));
+🚀
+patch 1098: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return ((str == null) || (str.lastIndexOf() == 0));
+🚀
+patch 1099: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str == 0)) || (str.length() == 0));
+🚀
+patch 1100: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || (str.length() == null));
+🚀
+patch 1101: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || str.isEmpty());
+🚀
+patch 1102: 
+Lang45191avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return str == null || str.length() == 0;
++return (((str == null) || (str.length() == 0)) || (str.length() == str));
+🚀
+patch 1103: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isEmpty(str);
+🚀
+patch 1104: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isNotEmpty(str);
+🚀
+patch 1105: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isBlank(str);
+🚀
+patch 1106: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isNotBlank(str);
+🚀
+patch 1107: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isAlpha(str);
+🚀
+patch 1108: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isAlphaSpace(str);
+🚀
+patch 1109: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isAlphanumeric(str);
+🚀
+patch 1110: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isAlphanumericSpace(str);
+🚀
+patch 1111: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isAsciiPrintable(str);
+🚀
+patch 1112: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isNumeric(str);
+🚀
+patch 1113: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isNumericSpace(str);
+🚀
+patch 1114: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.isWhitespace(str);
+🚀
+patch 1115: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(str);
+🚀
+patch 1116: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return isEmpty(str);
+🚀
+patch 1117: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return ((str == null) && !StringUtils.isEmpty(str));
+🚀
+patch 1118: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return str;
+🚀
+patch 1119: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(str, false);
+🚀
+patch 1120: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return ((str != null) && !StringUtils.isEmpty(str));
+🚀
+patch 1121: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(str, true);
+🚀
+patch 1122: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return (!StringUtils.isEmpty(str) && !StringUtils.isEmpty(str));
+🚀
+patch 1123: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return ((str == null) || !StringUtils.isEmpty(str));
+🚀
+patch 1124: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(str).isEmpty(str);
+🚀
+patch 1125: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return (!StringUtils.isEmpty(str) || !StringUtils.isEmpty(str));
+🚀
+patch 1126: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return false;
+🚀
+patch 1127: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return ((str != null) || !StringUtils.isEmpty(str));
+🚀
+patch 1128: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++if((str == null)){
+return false;}
+🚀
+patch 1129: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(str, null);
+🚀
+patch 1130: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty().isEmpty(str);
+🚀
+patch 1131: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(str, "null");
+🚀
+patch 1132: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.add(str);
+🚀
+patch 1133: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return true;
+🚀
+patch 1134: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(EMPTY, str);
+🚀
+patch 1135: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isNotEmpty(str);
+🚀
+patch 1136: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !Math.isEmpty(str);
+🚀
+patch 1137: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(str, str);
+🚀
+patch 1138: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++if((str == null)){
+return true;}
+🚀
+patch 1139: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty();
+🚀
+patch 1140: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !str.isEmpty(str);
+🚀
+patch 1141: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return StringUtils.isEmpty(str, this);
+🚀
+patch 1142: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return (str != null);
+🚀
+patch 1143: 
+Lang45209avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        return !StringUtils.isEmpty(str);
++return !StringUtils.debug(str);
+🚀
+patch 1144: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((strLen = str.length() == 0)){
+
+🚀
+patch 1145: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((str == null)){
+
+🚀
+patch 1146: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = Character.length() == 0))){
+🚀
+patch 1147: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.length() == 0))){
+🚀
+patch 1148: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.length() >= 0))){
+🚀
+patch 1149: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.length() <= 0))){
+🚀
+patch 1150: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(str.length()){
+
+🚀
+patch 1151: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = strLen.length() == 0))){
+🚀
+patch 1152: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((strLen == null) || (strLen = str.length() == 0))){
+🚀
+patch 1153: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.length() > 0))){
+🚀
+patch 1154: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.length() != 0))){
+🚀
+patch 1155: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) && (strLen = str.length() == 0))){
+🚀
+patch 1156: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.length() < 0))){
+🚀
+patch 1157: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(str){
+
+🚀
+patch 1158: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (strLen = str.length() == 0))){
+
+🚀
+patch 1160: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (str == 0))){
+
+🚀
+patch 1161: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (str == null))){
+
+🚀
+patch 1162: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (str == 0))){
+
+🚀
+patch 1163: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (str != 0))){
+
+🚀
+patch 1164: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (str != null))){
+
+🚀
+patch 1165: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (str == null))){
+
+🚀
+patch 1166: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (str != null))){
+
+🚀
+patch 1167: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || str.length())){
+
+🚀
+patch 1168: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (str != 0))){
+
+🚀
+patch 1169: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || ((strLen = str.length() == 0) || (strLen = str.length() == 0)))){
+
+🚀
+patch 1170: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (i < strLen))){
+
+🚀
+patch 1171: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || str.isEmpty())){
+
+🚀
+patch 1172: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(!str){
+
+🚀
+patch 1173: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (str == 0)) || (strLen = str.length() == 0))){
+
+🚀
+patch 1174: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.charAt() == 0))){
+🚀
+patch 1175: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || str.isEmpty())){
+
+🚀
+patch 1176: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((i == null) || (strLen = str.length() == 0))){
+🚀
+patch 1177: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (Character.isWhitespace(str.charAt(i)) == false))){
+
+🚀
+patch 1178: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = i.length() == 0))){
+🚀
+patch 1179: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (str == null)) || (strLen = str.length() == 0))){
+
+🚀
+patch 1180: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.isWhitespace() == 0))){
+🚀
+patch 1181: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (str == str))){
+
+🚀
+patch 1182: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || str)){
+
+🚀
+patch 1183: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((str || (strLen = str.length() == 0))){
+
+🚀
+patch 1184: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (str != 0)) || (strLen = str.length() == 0))){
+
+🚀
+patch 1185: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((Character.isWhitespace(str.charAt(i)) == false)){
+
+🚀
+patch 1186: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || (str == strLen))){
+
+🚀
+patch 1187: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || str.length())){
+
+🚀
+patch 1188: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if(((str == null) || (strLen = str.length() == str))){
+
+🚀
+patch 1189: 
+Lang45229avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-        if (str == null || (strLen = str.length()) == 0) {
++if((((str == null) || (strLen = str.length() == 0)) || str)){
+
+🚀
+patch 1190: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return false;
+🚀
+patch 1191: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return true;
+🚀
+patch 1192: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return true;
+🚀
+patch 1193: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return false;
+🚀
+patch 1194: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++continue;
+
+🚀
+patch 1195: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++
+🚀
+patch 1196: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return strLen;
+🚀
+patch 1197: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return i;
+🚀
+patch 1198: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return -1;
+🚀
+patch 1199: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return (strLen = str.length() == 0);
+🚀
+patch 1200: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++if((strLen = str.length() == 0)){
+
+🚀
+patch 1201: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++break;
+
+🚀
+patch 1202: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++strLen++;
+
+🚀
+patch 1203: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return str.length();
+🚀
+patch 1204: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++return;
+
+🚀
+patch 1205: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++if((str == null)){
+
+🚀
+patch 1206: 
+Lang45230avaj.slitUgnirtSgnalsnommocehcapagroavajcrsyggub
+-            return true;
++strLen = strLen;
+
+🚀

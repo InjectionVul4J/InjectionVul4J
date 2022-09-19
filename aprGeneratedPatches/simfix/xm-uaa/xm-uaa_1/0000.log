@@ -1,0 +1,669 @@
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.689176644767965 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+liquibase.setDataSource(dataSource);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+liquibase.setDataSource(dataSource);
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.8833792050865827 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+liquibase.setChangeLogParameters(DatabaseUtil.defaultParams(tenantKey));
+liquibase.setShouldRun(true);
+liquibase.afterPropertiesSet();
+log.info("STOP  - SETUP:CreateTenant:liquibase tenantKey: {}, result: OK, time = {} ms",tenantKey,stopWatch.getTime());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+liquibase.afterPropertiesSet();
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.8833792050865827 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+liquibase.setChangeLogParameters(DatabaseUtil.defaultParams(tenantKey));
+liquibase.setShouldRun(true);
+liquibase.afterPropertiesSet();
+log.info("STOP  - SETUP:CreateTenant:liquibase tenantKey: {}, result: OK, time = {} ms",tenantKey,stopWatch.getTime());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("STOP  - SETUP:CreateTenant:liquibase tenantKey: {}, result: OK, time = {} ms",tenantKey,stopWatch.getTime());
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.8069127830837792 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+ final StopWatch stopWatch=createStarted();
+log.info("START - SETUP:CreateTenant:schema tenantKey: {}",tenantKey);
+try{
+DatabaseUtil.createSchema(dataSource,tenantKey);
+log.info("STOP  - SETUP:CreateTenant:schema tenantKey: {}, result: OK, time = {} ms",tenantKey,stopWatch.getTime());
+}catch (Exception e) {
+  log.info("STOP  - SETUP:CreateTenant:schema tenantKey: {}, result: FAIL, error: {}, time = {} ms",tenantKey,e.getMessage(),stopWatch.getTime());
+  throw e;
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+log.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.6832836941047442 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+StopWatch stopWatch=createStarted();
+log.info("START - SETUP:DeleteTenant:schema tenantKey: {}",tenantKey);
+try(Connection connection=dataSource.getConnection()Statement statement=connection.createStatement()){
+statement.executeUpdate(String.format(schemaDropResolver.getSchemaDropCommand(),tenantKey));
+log.info("STOP  - SETUP:DeleteTenant:schema tenantKey: {}, result: OK, time = {} ms",tenantKey,stopWatch.getTime());
+}catch (Exception e) {
+  log.info("STOP  - SETUP:DeleteTenant:schema tenantKey: {}, result: FAIL, error: {}, time = {} ms",tenantKey,e.getMessage(),stopWatch.getTime());
+  throw e;
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.executeUpdate(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4349643395740257 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+ConcurrentMessageListenerContainer<String,String> container=new ConcurrentMessageListenerContainer<>(factory,containerProps);
+container.setupMessageListener(consumeEvent);
+container.start();
+log.info("Successfully created kafka consumer for topic {}",name);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("Successfully created kafka consumer for topic {}",tenantKey);
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.419297400522693 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+addRoleSpecification(tenant);
+addPermissionSpecification(tenant);
+addDefaultEmailTemplates(tenant);
+log.info("STOP  - SETUP:CreateTenant: tenantKey: {}, result: OK, time = {} ms",tenant,stopWatch.getTime());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+addRoleSpecification(tenantKey);
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.419297400522693 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+addRoleSpecification(tenant);
+addPermissionSpecification(tenant);
+addDefaultEmailTemplates(tenant);
+log.info("STOP  - SETUP:CreateTenant: tenantKey: {}, result: OK, time = {} ms",tenant,stopWatch.getTime());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+addPermissionSpecification(tenantKey);
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.419297400522693 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+addRoleSpecification(tenant);
+addPermissionSpecification(tenant);
+addDefaultEmailTemplates(tenant);
+log.info("STOP  - SETUP:CreateTenant: tenantKey: {}, result: OK, time = {} ms",tenant,stopWatch.getTime());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+addDefaultEmailTemplates(tenantKey);
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.4134572441069322 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+log.info("Sending creation email to \'{}\'",user.getEmail());
+Map<String,Object> objectModel=new HashMap<>();
+objectModel.put(USER,user);
+objectModel.put(BASE_URL,applicationUrl);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+new HashMap<>().put(BASE_URL,tenantKey);
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3844951849708402 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+createSchemas(dataSource);
+SpringLiquibase liquibase=new XmSpringLiquibase();
+liquibase.setDataSource(dataSource);
+liquibase.setChangeLog(CHANGE_LOG_PATH);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setChangeLog(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3844951849708402 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+createSchemas(dataSource);
+SpringLiquibase liquibase=new XmSpringLiquibase();
+liquibase.setDataSource(dataSource);
+liquibase.setChangeLog(CHANGE_LOG_PATH);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+createSchemas(dataSource);
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3168547035710552 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+try{
+hostAddress=InetAddress.getLocalHost().getHostAddress();
+}catch (UnknownHostException e) {
+  log.warn("The host name could not be determined, using `localhost` as fallback");
+}
+
+log.info("\n----------------------------------------------------------\n\t"+"Application \'{}\' is running! Access URLs:\n\t",env.getProperty("spring.application.name"),protocol,serverPort,contextPath,protocol,hostAddress,serverPort,contextPath,env.getActiveProfiles());
+String configServerStatus=env.getProperty("configserver.status");
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+InetAddress.getLocalHost().info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3034861816642003 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+if(!authenticate()){
+return ;
+}
+if(!updateEnvironmentsConfig(mapper.writeValueAsString(envVars))){
+return ;
+}
+log.info("Environments config was updated.");
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+if(!authenticate()){
+return ;
+}
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.2820898392216877 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+if(env.acceptsProfiles(JHipsterConstants.SPRING_PROFILE_NO_LIQUIBASE)){
+liquibase.setShouldRun(false);
+}else {
+liquibase.setShouldRun(liquibaseProperties.isEnabled());
+log.debug("Configuring Liquibase");
+}
+liquibase.setChangeLogParameters(DatabaseUtil.defaultParams(liquibaseProperties.getDefaultSchema()));
+return liquibase;
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setChangeLogParameters(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.2375126225990667 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+tenantConfigRepository.deleteConfig(tenant.toUpperCase(),"/"+applicationProperties.getTenantLoginPropertiesName());
+tenantConfigRepository.deleteConfigFullPath(tenant.toUpperCase(),API+permissionProperties.getRolesSpecPath());
+tenantConfigRepository.deleteConfigFullPath(tenant.toUpperCase(),API+permissionProperties.getPermissionsSpecPath());
+log.info("STOP  - SETUP:DeleteTenant: tenantKey: {}, result: OK, time = {} ms",tenant,stopWatch.getTime());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("STOP  - SETUP:DeleteTenant: tenantKey: {}, result: OK, time = {} ms",tenantKey,stopWatch.getTime());
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1679476890640481 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+log.info("Authenticating request for privileges config");
+TenantContextUtils.setTenant(tenantContextHolder,DEFAULT_TENANT);
+OAuth2Request request=new OAuth2Request(Collections.singletonMap("grant_type","client_credentials"),"internal",null,true,null,null,null,null,null);
+OAuth2Authentication authentication=new OAuth2Authentication(request,null);
+ResponseEntity<OAuth2AccessToken> tokenResponse=tokenEndpoint.postAccessToken(authentication,Collections.singletonMap("grant_type","client_credentials"));
+authentication.setDetails(tokenResponse.getBody().getValue());
+SecurityContextHolder.getContext().setAuthentication(authentication);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+SecurityContextHolder.getContext().setAuthentication(new OAuth2Authentication(new OAuth2Request(Collections.singletonMap("grant_type","client_credentials"),"internal",null,true,null,null,null,null,null),null));
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1100290413136689 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+log.error("Entity processing failed, {}",defaultMessage);
+HttpHeaders headers=new HttpHeaders();
+headers.add("X-uaaApp-error","error."+errorKey);
+headers.add("X-uaaApp-params",entityName);
+return headers;
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+new HttpHeaders().add("X-uaaApp-params",tenantKey);
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0857652138015488 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+servletContext.setAttribute(InstrumentedFilter.REGISTRY_ATTRIBUTE,metricRegistry);
+servletContext.setAttribute(MetricsServlet.METRICS_REGISTRY,metricRegistry);
+log.debug("Registering Metrics Filter");
+FilterRegistration.Dynamic metricsFilter=servletContext.addFilter("webappMetricsFilter",new InstrumentedFilter());
+metricsFilter.addMappingForUrlPatterns(disps,true,"/*");
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.debug("Registering Metrics Filter");
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0763841367493647 : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>0,0]
+if(isBlank(captcha)){
+throw new ErrorCheckCaptcha("error.captcha.required","Captcha is blank");
+}
+String url=getReCaptcha().getUrl()+"?secret=";
+log.debug("Check captcha by url {}",url);
+ final ObjectReader reader=new ObjectMapper().readerFor(Map.class);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/xm-uaa/xm-uaa_1//src/main/java//com/icthh/xm/uaa/service/tenant/TenantDatabaseService.java=>64,66]
+if(isBlank(tenantKey)){
+throw new ErrorCheckCaptcha("error.captcha.required","Captcha is blank");
+}
+log.info("START - SETUP:CreateTenant:liquibase tenantKey: {}",tenantKey);
+SpringLiquibase liquibase=new SpringLiquibase();
+liquibase.setResourceLoader(resourceLoader);
+
+Time : 22/04/22 13:44
+----------------------------------------

@@ -1,0 +1,270 @@
+patch 0: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getId());
+
+🚀
+patch 1: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getName());
+
+🚀
+patch 2: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getClientWindow());
+
+🚀
+patch 3: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getStateManager());
+
+🚀
+patch 4: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window);
+
+🚀
+patch 5: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++return;
+
+🚀
+patch 6: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getExternalContext());
+
+🚀
+patch 7: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getApplication());
+
+🚀
+patch 8: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getPartialViewContext());
+
+🚀
+patch 9: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.toString());
+
+🚀
+patch 10: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getPartialResponseWriter());
+
+🚀
+patch 11: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++if((window != window)){
+
+🚀
+patch 12: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.renderState());
+
+🚀
+patch 13: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(state.getId());
+
+🚀
+patch 14: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(clientWindowId);
+
+🚀
+patch 15: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(context);
+
+🚀
+patch 16: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(pvc.getId());
+
+🚀
+patch 17: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(clientWindowId.getId());
+
+🚀
+patch 18: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(viewStateId.getId());
+
+🚀
+patch 19: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getId(), clientWindowId);
+
+🚀
+patch 20: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++if((window.getId() != window)){
+
+🚀
+patch 21: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++pvc.write(window.getId());
+
+🚀
+patch 22: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getId(), true);
+
+🚀
+patch 23: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getId(), false);
+
+🚀
+patch 24: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write();
+
+🚀
+patch 25: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(writer.getId());
+
+🚀
+patch 26: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.startDocument();
+
+🚀
+patch 27: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.endDocument();
+
+🚀
+patch 28: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.endInsert();
+
+🚀
+patch 29: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.endUpdate();
+
+🚀
+patch 30: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.startEval();
+
+🚀
+patch 31: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.endEval();
+
+🚀
+patch 32: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.endExtension();
+
+🚀
+patch 33: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.endError();
+
+🚀
+patch 34: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.startChangesIfNecessary();
+
+🚀
+patch 35: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.endUpdateIfNecessary();
+
+🚀
+patch 36: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.endChangesIfNecessary();
+
+🚀
+patch 37: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getId(), window);
+
+🚀
+patch 38: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(window.getId(), window.getId());
+
+🚀
+patch 39: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.startUpdate(clientWindowId);
+
+🚀
+patch 40: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(false);
+
+🚀
+patch 41: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(true);
+
+🚀
+patch 42: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.debug(window.getId());
+
+🚀
+patch 43: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++break;
+
+🚀
+patch 44: 
+mojarra_1514avaj.lpmItxetnoCweiVlaitraPtxetnocsecafnusmocavajniamcrslpmi1_arrajomarrajomsluvpmt-yh
+-            writer.write(window.getId());
++writer.write(pvc);
+
+🚀

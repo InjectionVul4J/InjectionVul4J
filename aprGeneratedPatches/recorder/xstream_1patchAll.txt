@@ -1,0 +1,113 @@
+patch 1: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++setupMappers();
+
+🚀
+patch 2: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++setupSecurity();
+
+🚀
+patch 3: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++setupAliases();
+
+🚀
+patch 4: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++setupDefaultImplementations();
+
+🚀
+patch 5: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++setupConverters();
+
+🚀
+patch 6: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++setupImmutableTypes();
+
+🚀
+patch 7: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++ignoreUnknownElements();
+
+🚀
+patch 8: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++
+🚀
+patch 10: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++denyTypes(ANNOTATION_MAPPER_TYPE);
+
+🚀
+patch 12: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++denyTypes(AnyTypePermission.ANY);
+
+🚀
+patch 13: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++return;
+
+🚀
+patch 14: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++denyTypes(ANNOTATION_MAPPER_TYPE);
+
+🚀
+patch 15: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++denyTypes();
+
+🚀
+patch 16: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++denyTypes("null", "null");
+
+🚀
+patch 19: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++allowTypeHierarchy(Exception);
+
+🚀
+patch 21: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++securityInitialized = false;
+
+🚀
+patch 25: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++denyTypes(ANNOTATION_MAPPER_TYPE, "null");
+
+🚀
+patch 26: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++denyTypes("null");
+
+🚀
+patch 31: 
+xstream_1645avaj.maertSXmaertsxskrowthguohtmocavajcrsmaertsx1_maertsxmaertsxsluvpmt-yh
+-        denyTypes(new String[]{"java.beans.EventHandler"});
++addPermission(AnyTypePermission.ANY);
+
+🚀

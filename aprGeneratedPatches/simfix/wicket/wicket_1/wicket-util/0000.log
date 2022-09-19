@@ -1,0 +1,43 @@
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.956589098226452 : [/hy-tmp/vuls/wicket/wicket_1/wicket-util//src/main/java//org/apache/wicket/util/upload/DiskFileItem.java=>0,0]
+if(!isInMemory()){
+return new FileInputStream(dfos.getFile());
+}
+if(cachedContent==null){
+cachedContent=dfos.getData();
+}
+return new ByteArrayInputStream(cachedContent);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/wicket/wicket_1/wicket-util//src/main/java//org/apache/wicket/util/upload/DiskFileItem.java=>698,706]
+if(dfos.isInMemory()){
+cachedContent=get();
+}else {
+cachedContent=null;
+dfosFile=dfos.getFile();
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/wicket/wicket_1/wicket-util//src/main/java//org/apache/wicket/util/upload/DiskFileItem.java=>698,706]
+if(cachedContent==null){
+cachedContent=dfos.getData();
+}
+if(dfos.isInMemory()){
+cachedContent=get();
+}else {
+cachedContent=null;
+dfosFile=dfos.getFile();
+}
+
+Time : 22/04/22 13:44
+----------------------------------------

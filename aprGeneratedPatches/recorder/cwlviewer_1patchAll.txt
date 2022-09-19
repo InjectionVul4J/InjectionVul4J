@@ -1,0 +1,322 @@
+patch 0: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(path);
+
+🚀
+patch 1: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++if((reader == null)){
+return null;}
+🚀
+patch 2: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(in);
+
+🚀
+patch 3: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++final ObjectMapper mapper = new ObjectMapper();
+
+🚀
+patch 4: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++if((reader != null)){
+
+🚀
+patch 5: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(this);
+
+🚀
+patch 6: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++mapper = new ObjectMapper();
+
+🚀
+patch 7: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++new ObjectMapper();
+
+🚀
+patch 8: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(reader);
+
+🚀
+patch 9: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(false);
+
+🚀
+patch 10: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++if((reader == null)){
+return mapper.valueToTree(reader.load(in));}
+🚀
+patch 11: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(null);
+
+🚀
+patch 12: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(true);
+
+🚀
+patch 13: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++if((reader == null)){
+
+🚀
+patch 14: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++if((reader != null)){
+return null;}
+🚀
+patch 15: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper("null");
+
+🚀
+patch 16: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(0);
+
+🚀
+patch 17: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++mapper++;
+
+🚀
+patch 18: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new Yaml();
+
+🚀
+patch 19: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper();
+
+🚀
+patch 20: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper<?> mapper = new ObjectMapper();
+
+🚀
+patch 21: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = new ObjectMapper(reader.load(in));
+
+🚀
+patch 22: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper<path> mapper = new ObjectMapper();
+
+🚀
+patch 23: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++return null;
+🚀
+patch 24: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++if((reader != null)){
+return mapper.valueToTree(reader.load(in));}
+🚀
+patch 25: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++ObjectMapper mapper = reader.load();
+
+🚀
+patch 26: 
+cwlviewer_1606avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        ObjectMapper mapper = new ObjectMapper();
++if((reader == null)){
+return "null";}
+🚀
+patch 27: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(yamlStream);
+
+🚀
+patch 28: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++if((yamlStream == null)){
+return null;}
+🚀
+patch 29: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(reader.load(yamlStream));
+
+🚀
+patch 30: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++final Yaml reader = new Yaml();
+
+🚀
+patch 31: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++new Yaml();
+
+🚀
+patch 32: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++if((yamlStream != null)){
+
+🚀
+patch 33: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(this);
+
+🚀
+patch 34: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++if((yamlStream != null)){
+return null;}
+🚀
+patch 35: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++if((yamlStream == null)){
+
+🚀
+patch 36: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(false);
+
+🚀
+patch 37: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++if((yamlStream == null)){
+return mapper.valueToTree(reader.load(yamlStream));}
+🚀
+patch 38: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(null);
+
+🚀
+patch 39: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++reader = new Yaml();
+
+🚀
+patch 40: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new ObjectMapper();
+
+🚀
+patch 41: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(true);
+
+🚀
+patch 42: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml();
+
+🚀
+patch 43: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml("null");
+
+🚀
+patch 44: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++super.yamlStreamToJson();
+
+🚀
+patch 45: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++return null;
+🚀
+patch 46: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++if((yamlStream == null)){
+return "null";}
+🚀
+patch 47: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml<yamlStream> reader = new Yaml();
+
+🚀
+patch 48: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(0);
+
+🚀
+patch 49: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(load);
+
+🚀
+patch 50: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml<?> reader = new Yaml();
+
+🚀
+patch 51: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = yamlStream.load();
+
+🚀
+patch 52: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++if((yamlStream == null)){
+return yamlStream;}
+🚀
+patch 54: 
+cwlviewer_1621avaj.ecivreSLWClwcweivlwnommocgroavajniamcrs1_reweivlwcreweivlwcsluvpmt-yh
+-        Yaml reader = new Yaml();
++Yaml reader = new Yaml(yamlStream.load());
+
+🚀

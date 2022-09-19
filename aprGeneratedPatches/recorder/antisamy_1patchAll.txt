@@ -1,0 +1,850 @@
+patch 0: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN)));
+
+🚀
+patch 1: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 2: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_END + value) + REGEXP_END)));
+
+🚀
+patch 3: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++break;
+
+🚀
+patch 4: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((regExpName + value) + REGEXP_END)));
+
+🚀
+patch 5: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + regExpName)));
+
+🚀
+patch 6: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + regExpNode)));
+
+🚀
+patch 7: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((regExpNode + value) + REGEXP_END)));
+
+🚀
+patch 8: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(((REGEXP_BEGIN + value) + REGEXP_END));
+
+🚀
+patch 9: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + allowedRegExp)));
+
+🚀
+patch 10: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + commonRegularExpressions1)));
+
+🚀
+patch 11: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((allowedRegExp + value) + REGEXP_END)));
+
+🚀
+patch 12: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+
+🚀
+patch 13: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + ele)));
+
+🚀
+patch 14: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((commonRegularExpressions1 + value) + REGEXP_END)));
+
+🚀
+patch 15: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((ele + value) + REGEXP_END)));
+
+🚀
+patch 16: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + value)));
+
+🚀
+patch 17: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((value + value) + REGEXP_END)));
+
+🚀
+patch 18: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(regExpName));
+
+🚀
+patch 19: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + regExpName) + REGEXP_END)));
+
+🚀
+patch 20: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(value));
+
+🚀
+patch 21: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + regExpNode) + REGEXP_END)));
+
+🚀
+patch 22: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(commonRegularExpressions1.get(regExpName).getPattern());
+
+🚀
+patch 23: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN.REGEXP_BEGIN)));
+
+🚀
+patch 24: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END.REGEXP_BEGIN)));
+
+🚀
+patch 25: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++continue;
+
+🚀
+patch 26: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(value);
+
+🚀
+patch 27: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN.REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 28: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_END.REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 29: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) - REGEXP_END)));
+
+🚀
+patch 30: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN.REGEXP_END)));
+
+🚀
+patch 31: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END.REGEXP_END)));
+
+🚀
+patch 32: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++return allowedRegExp;
+🚀
+patch 33: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(REGEXP_END);
+
+🚀
+patch 34: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) == REGEXP_END)));
+
+🚀
+patch 35: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN.REGEXP_END + value) + REGEXP_END)));
+
+🚀
+patch 36: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_END.REGEXP_END + value) + REGEXP_END)));
+
+🚀
+patch 37: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(REGEXP_END));
+
+🚀
+patch 38: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(REGEXP_BEGIN));
+
+🚀
+patch 39: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(REGEXP_BEGIN);
+
+🚀
+patch 40: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + ele) + REGEXP_END)));
+
+🚀
+patch 41: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + allowedRegExp) + REGEXP_END)));
+
+🚀
+patch 42: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile((( + value) + REGEXP_END)));
+
+🚀
+patch 43: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.getAttributeValue(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 45: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile((REGEXP_BEGIN + value)));
+
+🚀
+patch 46: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(regExpName);
+
+🚀
+patch 47: 
+antisamy_1591avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++return;
+
+🚀
+patch 48: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + value)));
+
+🚀
+patch 49: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN)));
+
+🚀
+patch 50: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 51: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((value + value) + REGEXP_END)));
+
+🚀
+patch 52: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(((REGEXP_BEGIN + value) + REGEXP_END));
+
+🚀
+patch 53: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + attributeNode)));
+
+🚀
+patch 54: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + regExpNode)));
+
+🚀
+patch 55: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + regExpName)));
+
+🚀
+patch 56: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_END + value) + REGEXP_END)));
+
+🚀
+patch 57: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((regExpName + value) + REGEXP_END)));
+
+🚀
+patch 58: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + allowedRegexps)));
+
+🚀
+patch 59: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((attributeNode + value) + REGEXP_END)));
+
+🚀
+patch 60: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((regExpNode + value) + REGEXP_END)));
+
+🚀
+patch 61: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.getAttributeValue(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 62: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + tagName)));
+
+🚀
+patch 63: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + commonRegularExpressions1)));
+
+🚀
+patch 64: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + pattern)));
+
+🚀
+patch 65: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(pattern.getPattern());
+
+🚀
+patch 66: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((allowedRegexps + value) + REGEXP_END)));
+
+🚀
+patch 67: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(value));
+
+🚀
+patch 68: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(pattern.getPattern());
+
+🚀
+patch 69: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++break;
+
+🚀
+patch 70: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(value);
+
+🚀
+patch 71: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((commonRegularExpressions1 + value) + REGEXP_END)));
+
+🚀
+patch 72: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((tagName + value) + REGEXP_END)));
+
+🚀
+patch 73: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((pattern + value) + REGEXP_END)));
+
+🚀
+patch 74: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + regExpName) + REGEXP_END)));
+
+🚀
+patch 75: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.getAllowedRegexps2(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 76: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.get(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 77: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.getGrandChildrenByTagName(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 78: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile((REGEXP_BEGIN + value)));
+
+🚀
+patch 79: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(REGEXP_END));
+
+🚀
+patch 80: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN == value) + REGEXP_END)));
+
+🚀
+patch 81: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(REGEXP_END);
+
+🚀
+patch 82: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++return allowedRegexps;
+🚀
+patch 83: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(allowedRegexps.compile(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 84: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN.REGEXP_END)));
+
+🚀
+patch 85: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END.REGEXP_END)));
+
+🚀
+patch 86: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(REGEXP_BEGIN));
+
+🚀
+patch 87: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + regExpNode) + REGEXP_END)));
+
+🚀
+patch 88: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++if(((value != null) && (value.length() > 0))){
+
+🚀
+patch 89: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN.REGEXP_BEGIN)));
+
+🚀
+patch 90: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END.REGEXP_BEGIN)));
+
+🚀
+patch 91: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(regExpName);
+
+🚀
+patch 92: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.add(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 93: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.debug(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 94: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(Pattern.compile(((REGEXP_BEGIN + attributeNode) + REGEXP_END)));
+
+🚀
+patch 95: 
+antisamy_1620avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegexps.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegexps.add(compile(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 96: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN)));
+
+🚀
+patch 97: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 98: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_END + value) + REGEXP_END)));
+
+🚀
+patch 99: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((value + value) + REGEXP_END)));
+
+🚀
+patch 100: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + value)));
+
+🚀
+patch 101: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + regExpNode)));
+
+🚀
+patch 102: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(((REGEXP_BEGIN + value) + REGEXP_END));
+
+🚀
+patch 103: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + ele)));
+
+🚀
+patch 104: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((regExpNode + value) + REGEXP_END)));
+
+🚀
+patch 105: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((ele + value) + REGEXP_END)));
+
+🚀
+patch 106: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((regExpName + value) + REGEXP_END)));
+
+🚀
+patch 107: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + regExpName)));
+
+🚀
+patch 108: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + allowedRegExp)));
+
+🚀
+patch 109: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((allowedRegExp + value) + REGEXP_END)));
+
+🚀
+patch 110: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + pattern)));
+
+🚀
+patch 111: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((commonRegularExpressions1 + value) + REGEXP_END)));
+
+🚀
+patch 112: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + commonRegularExpressions1)));
+
+🚀
+patch 113: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((pattern + value) + REGEXP_END)));
+
+🚀
+patch 114: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((name + value) + REGEXP_END)));
+
+🚀
+patch 115: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + name)));
+
+🚀
+patch 116: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(pattern.getPattern());
+
+🚀
+patch 117: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(value));
+
+🚀
+patch 118: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.getAttributeValue(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 119: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + regExpName) + REGEXP_END)));
+
+🚀
+patch 120: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(pattern.getPattern());
+
+🚀
+patch 121: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile((REGEXP_BEGIN + value)));
+
+🚀
+patch 122: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + regExpNode) + REGEXP_END)));
+
+🚀
+patch 123: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + ele) + REGEXP_END)));
+
+🚀
+patch 124: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(value);
+
+🚀
+patch 125: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN.REGEXP_BEGIN)));
+
+🚀
+patch 126: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END.REGEXP_BEGIN)));
+
+🚀
+patch 127: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(allowedRegExp.compile(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 128: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + allowedRegExp) + REGEXP_END)));
+
+🚀
+patch 129: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN.REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 130: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_END.REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 131: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++if((value != null)){
+
+🚀
+patch 132: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(REGEXP_END));
+
+🚀
+patch 133: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(REGEXP_BEGIN));
+
+🚀
+patch 134: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) - REGEXP_END)));
+
+🚀
+patch 135: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.getGrandChildrenByTagName(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 136: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++break;
+
+🚀
+patch 137: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_BEGIN.REGEXP_END)));
+
+🚀
+patch 138: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) + REGEXP_END.REGEXP_END)));
+
+🚀
+patch 139: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.getAllowedRegexp3(((REGEXP_BEGIN + value) + REGEXP_END)));
+
+🚀
+patch 140: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(REGEXP_BEGIN);
+
+🚀
+patch 141: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(REGEXP_END);
+
+🚀
+patch 142: 
+antisamy_1637avaj.yciloPlmthrotadilavpsawogroavajniamcrs1_ymasitnaymasitnasluvpmt-yh
+-                allowedRegExp.add(Pattern.compile(REGEXP_BEGIN + value + REGEXP_END));
++allowedRegExp.add(Pattern.compile(((REGEXP_BEGIN + value) == REGEXP_END)));
+
+🚀

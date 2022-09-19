@@ -1,0 +1,120 @@
+patch 0: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++final SpringLiquibase liquibase = new SpringLiquibase();
+
+🚀
+patch 1: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++SpringLiquibase liquibase = new SpringLiquibase();
+
+🚀
+patch 3: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++liquibase = new SpringLiquibase();
+
+🚀
+patch 4: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++if((stopWatch == null)){
+return;
+}
+🚀
+patch 5: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++return;
+
+🚀
+patch 7: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++SpringLiquibase liquibase = new SpringLiquibase(resourceLoader);
+
+🚀
+patch 8: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++SpringLiquibase liquibase = new SpringLiquibase();
+
+🚀
+patch 9: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++liquibase.setResourceLoader(resourceLoader);
+
+🚀
+patch 10: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++log.debug("null", tenantKey);
+
+🚀
+patch 11: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++
+🚀
+patch 12: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++log.debug(dataSource);
+
+🚀
+patch 13: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++final SpringLiquibase liquibase = new SpringLiquibase();
+
+🚀
+patch 14: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++log.info("null", tenantKey, e.getMessage(), stopWatch.getTime());
+
+🚀
+patch 15: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++log.debug(CHANGE_LOG_PATH);
+
+🚀
+patch 16: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++log.info("null", tenantKey);
+
+🚀
+patch 17: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++SpringLiquibase liquibase = new SpringLiquibase("null", tenantKey);
+
+🚀
+patch 18: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++log.debug(tenantKey);
+
+🚀
+patch 19: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++new SpringLiquibase();
+
+🚀
+patch 20: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++SpringLiquibase liquibase = new SpringLiquibase(null);
+
+🚀
+patch 21: 
+xmuaa_165avaj.ecivreSesabataDtnaneTtnanetecivresaaumxhhtcimocavajniamcrs1_aau-mxaau-mxsluvpmt-yh
+-            SpringLiquibase liquibase = new SpringLiquibase();
++SpringLiquibase liquibase = new SpringLiquibase(CHANGE_LOG_PATH);
+
+🚀

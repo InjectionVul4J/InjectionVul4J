@@ -1,0 +1,424 @@
+patch 0: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(contents);
+
+🚀
+patch 1: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+return null;}
+🚀
+patch 2: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(yaml.load(contents), JsonNode);
+
+🚀
+patch 3: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents != null)){
+
+🚀
+patch 4: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++new org();
+
+🚀
+patch 5: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++snakeyaml yaml = new org();
+
+🚀
+patch 6: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++final org yaml = new org();
+
+🚀
+patch 7: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org("null");
+
+🚀
+patch 8: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++yaml yaml = new org();
+
+🚀
+patch 9: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+
+🚀
+patch 10: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(this);
+
+🚀
+patch 11: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(mapper);
+
+🚀
+patch 12: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(yaml.load(contents));
+
+🚀
+patch 13: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(null);
+
+🚀
+patch 14: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(JsonNode);
+
+🚀
+patch 15: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++contents = new org();
+
+🚀
+patch 16: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(0);
+
+🚀
+patch 17: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++Yaml yaml = new org();
+
+🚀
+patch 18: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents != null)){
+return null;}
+🚀
+patch 19: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new snakeyaml();
+
+🚀
+patch 20: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new Yaml();
+
+🚀
+patch 21: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++super.readYamlTree();
+
+🚀
+patch 22: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new Yaml(contents);
+
+🚀
+patch 23: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(false);
+
+🚀
+patch 24: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new snakeyaml(contents);
+
+🚀
+patch 25: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(contents.mapper());
+
+🚀
+patch 26: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++return null;
+🚀
+patch 27: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+return "null";}
+🚀
+patch 28: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(this, contents);
+
+🚀
+patch 29: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(true);
+
+🚀
+patch 30: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org();
+
+🚀
+patch 31: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++this.contents = contents;
+
+🚀
+patch 32: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+return Json.mapper().convertValue(yaml.load(contents), JsonNode);}
+🚀
+patch 33: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(contents, contents);
+
+🚀
+patch 34: 
+swaggerparser_160avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+return contents;}
+🚀
+patch 35: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(expectedType);
+
+🚀
+patch 36: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(yaml.load(contents), expectedType);
+
+🚀
+patch 37: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(contents);
+
+🚀
+patch 38: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+return null;}
+🚀
+patch 39: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++snakeyaml yaml = new org();
+
+🚀
+patch 40: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((expectedType == null)){
+return null;}
+🚀
+patch 41: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++new org();
+
+🚀
+patch 42: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++final org yaml = new org();
+
+🚀
+patch 43: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents != null)){
+
+🚀
+patch 44: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++yaml yaml = new org();
+
+🚀
+patch 45: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((expectedType != null)){
+
+🚀
+patch 46: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(yaml.load(contents));
+
+🚀
+patch 47: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(contents, expectedType);
+
+🚀
+patch 48: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(mapper);
+
+🚀
+patch 49: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org("null");
+
+🚀
+patch 50: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+
+🚀
+patch 51: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((expectedType == null)){
+
+🚀
+patch 52: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(expectedType, expectedType);
+
+🚀
+patch 53: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(null);
+
+🚀
+patch 54: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org();
+
+🚀
+patch 55: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++contents = new org();
+
+🚀
+patch 56: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++return null;
+🚀
+patch 57: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(this);
+
+🚀
+patch 58: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++Yaml yaml = new org();
+
+🚀
+patch 59: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++super.readYamlValue();
+
+🚀
+patch 60: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+return Json.mapper().convertValue(yaml.load(contents), expectedType);}
+🚀
+patch 61: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((expectedType == null)){
+return Json.mapper().convertValue(yaml.load(contents), expectedType);}
+🚀
+patch 62: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++expectedType = new org();
+
+🚀
+patch 63: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents != null)){
+return null;}
+🚀
+patch 64: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(expectedType.mapper());
+
+🚀
+patch 65: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(false);
+
+🚀
+patch 66: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(contents.mapper());
+
+🚀
+patch 67: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++org yaml = new org(0);
+
+🚀
+patch 68: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((expectedType != null)){
+return null;}
+🚀
+patch 69: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++snakeyaml<T> yaml = new org();
+
+🚀
+patch 70: 
+swaggerparser_165avaj.slitUnoitazilaireseDlituresrapreggawsoiavajniamcrsresrap-reggawsseludom1_resrap-reggawsresrap-reggawssluvpmt-yh
+-        org.yaml.snakeyaml.Yaml yaml = new org.yaml.snakeyaml.Yaml();
++if((contents == null)){
+return "null";}
+🚀

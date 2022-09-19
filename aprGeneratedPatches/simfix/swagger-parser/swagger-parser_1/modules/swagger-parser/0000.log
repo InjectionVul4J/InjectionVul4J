@@ -1,0 +1,61 @@
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.8509911794408263 : [/hy-tmp/vuls/swagger-parser/swagger-parser_1/modules/swagger-parser//src/main/java//io/swagger/parser/util/DeserializationUtils.java=>0,0]
+org.yaml.snakeyaml.Yaml yaml=new org.yaml.snakeyaml.Yaml();
+return Json.mapper().convertValue(yaml.load(contents),JsonNode.class);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/swagger-parser/swagger-parser_1/modules/swagger-parser//src/main/java//io/swagger/parser/util/DeserializationUtils.java=>65,66]
+org.yaml.snakeyaml.Yaml yaml=new org.yaml.snakeyaml.Yaml();
+return Json.mapper().convertValue(yaml.load(contents),expectedType);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/swagger-parser/swagger-parser_1/modules/swagger-parser//src/main/java//io/swagger/parser/util/DeserializationUtils.java=>65,66]
+org.yaml.snakeyaml.Yaml yaml=new org.yaml.snakeyaml.Yaml();
+return Json.mapper().convertValue(yaml.load(contents),JsonNode.class);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1354882481176531 : [/hy-tmp/vuls/swagger-parser/swagger-parser_1/modules/swagger-parser//src/main/java//io/swagger/parser/util/DeserializationUtils.java=>0,0]
+if(refFormat==RefFormat.INTERNAL){
+Object loadedRef=loadInternalRef(ref);
+try{
+return expectedType.cast(loadedRef);
+}catch (Exception e) {
+  return null;
+}
+
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/swagger-parser/swagger-parser_1/modules/swagger-parser//src/main/java//io/swagger/parser/util/DeserializationUtils.java=>65,66]
+org.yaml.snakeyaml.Yaml yaml=new org.yaml.snakeyaml.Yaml();
+return Json.mapper().convertValue(yaml.load(contents),expectedType);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/swagger-parser/swagger-parser_1/modules/swagger-parser//src/main/java//io/swagger/parser/util/DeserializationUtils.java=>65,66]
+org.yaml.snakeyaml.Yaml yaml=new org.yaml.snakeyaml.Yaml();
+return expectedType.cast(loadInternalRef(contents));
+
+Time : 22/04/22 13:44
+----------------------------------------

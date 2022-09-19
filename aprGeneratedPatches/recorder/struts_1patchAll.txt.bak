@@ -1,0 +1,179 @@
+patch 0: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = (OgnlContext)context;
+
+🚀
+patch 1: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return false;
+🚀
+patch 2: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext);
+🚀
+patch 3: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++break;
+
+🚀
+patch 4: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalExpression(ognlContext);
+🚀
+patch 5: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((ognlContext != null)){
+
+🚀
+patch 6: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return false;
+🚀
+patch 7: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return;
+
+🚀
+patch 8: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(node);
+🚀
+patch 9: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = ognlContext;
+
+🚀
+patch 10: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return true;
+🚀
+patch 11: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = false;
+
+🚀
+patch 12: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return isEvalChain(ognlContext);
+🚀
+patch 13: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, ognlContext);
+🚀
+patch 14: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = null;
+
+🚀
+patch 15: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, context);
+🚀
+patch 16: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node;
+🚀
+patch 17: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext++;
+
+🚀
+patch 18: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = true;
+
+🚀
+patch 19: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((context != null)){
+
+🚀
+patch 20: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain();
+🚀
+patch 21: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return tree.isEvalChain(ognlContext);
+🚀
+patch 22: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((context instanceof OgnlContext)){
+
+🚀
+patch 23: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++ognlContext = node;
+
+🚀
+patch 24: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, false);
+🚀
+patch 25: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain();
+🚀
+patch 26: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return ((ognlContext != null) && node.isEvalChain(ognlContext));
+🚀
+patch 27: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((ognlContext == null)){
+return false;}
+🚀
+patch 28: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, true);
+🚀
+patch 29: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++if((node != null)){
+
+🚀
+patch 30: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.isEvalChain(ognlContext, tree);
+🚀
+patch 31: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return node.add(ognlContext);
+🚀
+patch 32: 
+struts_1306avaj.litUlngOlngo2krowxynohpmysnepomocavajniamcrseroc1_sturtssturtssluvpmt-yh
+-            return node.isEvalChain(ognlContext);
++return (node.isEvalChain(ognlContext) && node.isEvalChain(ognlContext));
+🚀

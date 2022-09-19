@@ -1,0 +1,754 @@
+
+----------------------------------------
+----------------------------------------
+Similar code block : 2.751411769577187 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+selectedTaskId=event.getTaskId();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+view.getContent().clear();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3738032054408267 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+taskServices.call(new RemoteCallback<TaskSummary>(){
+  @Override public void callback(  TaskSummary details){
+    view.getTaskIdText().setText(String.valueOf(details.getId()));
+    view.getTaskNameText().setText(details.getName());
+  }
+}
+).getTaskDetails(taskId);
+view.getTaskIdText().setText(String.valueOf(taskId));
+view.getNavBarUL().clear();
+NavLink assignmentsLink=new NavLink(constants.Assignments());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().getTaskDetails(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3738032054408267 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+taskServices.call(new RemoteCallback<TaskSummary>(){
+  @Override public void callback(  TaskSummary details){
+    view.getTaskIdText().setText(String.valueOf(details.getId()));
+    view.getTaskNameText().setText(details.getName());
+  }
+}
+).getTaskDetails(taskId);
+view.getTaskIdText().setText(String.valueOf(taskId));
+view.getNavBarUL().clear();
+NavLink assignmentsLink=new NavLink(constants.Assignments());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+view.getNavBarUL().clear();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3651618652568214 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+view.getNavBarUL().clear();
+view.getInnerNavPanel().clear();
+view.getInnerNavPanel().setStyleName("");
+view.getOptionsDiv().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+view.getInnerNavPanel().setStyleName("");
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3651618652568214 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+view.getNavBarUL().clear();
+view.getInnerNavPanel().clear();
+view.getInnerNavPanel().setStyleName("");
+view.getOptionsDiv().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+view.getOptionsDiv().clear();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3134872775614657 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+pager.setPageSize(6);
+newTaskCommentTextArea.setWidth("300px");
+addCommentButton.setText(constants.Add_Comment());
+newTaskCommentLabel.setText(constants.Comment());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setPageSize(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.2700203598033286 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+typeRoleList.setMultipleSelect(true);
+groupLabel.setText(constants.Group());
+typeRoleListLabel.setText(constants.Type_Role());
+userLabel.add(new HTMLPanel(constants.User()));
+Controls descriptionControl=new Controls();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setMultipleSelect(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1737582493643524 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+this.viewType=ViewType.valueOf(viewType.toUpperCase());
+updateCalendarLabelText();
+updateTodayButtonEnabled();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+updateCalendarLabelText();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1737582493643524 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+this.viewType=ViewType.valueOf(viewType.toUpperCase());
+updateCalendarLabelText();
+updateTodayButtonEnabled();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+updateTodayButtonEnabled();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1737582493643524 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+this.viewType=ViewType.valueOf(viewType.toUpperCase());
+updateTodayButtonEnabled();
+updateCalendarLabelText();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+updateTodayButtonEnabled();
+updateCalendarLabelText();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1617760688304044 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+showPersonalTasksButton.setSize(ButtonSize.SMALL);
+showPersonalTasksButton.setText(constants.Personal());
+showPersonalTasksButton.addClickHandler(new ClickHandler(){
+  @Override public void onClick(  ClickEvent event){
+    setPersonalTasks();
+    refreshTasks();
+  }
+}
+);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setSize(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.157590259478218 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+descriptionControlGroup.add(groupLabel);
+descriptionControlGroup.add(descriptionControl);
+addGroupButton.setText(constants.Create());
+initializeListParentGroup();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+initializeListParentGroup();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1557344105118106 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+taskNameText.setFocus(true);
+taskNameText.setErrorLabel(taskNameHelpLabel);
+taskNameControlGroup.setType(ControlGroupType.ERROR);
+taskNameHelpLabel.setText(constants.Task_Must_Have_A_Name());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setFocus(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.155151515151515 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+dispose();
+PlaceRequest placeRequestImpl=new DefaultPlaceRequest(tabId);
+placeRequestImpl.addParameter("taskId",String.valueOf(currentTaskId));
+placeManager.goTo(placeRequestImpl);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+dispose();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1503317007228773 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+close();
+PlaceRequest placeRequestImpl=new DefaultPlaceRequest(tabId);
+placeRequestImpl.addParameter("taskId",String.valueOf(view.getTaskId()));
+placeManager.goTo(placeRequestImpl);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+close();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1482516999983217 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+mainPanel.setVisible(true);
+DateTimeFormat fmt=DateTimeFormat.getFormat("EEE, dd MMMM");
+calendarLabel.setText(fmt.format(currentDate));
+break;
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setVisible(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.146462563779938 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+descriptionControlUser.add(userLabel);
+descriptionControlUser.add(descriptionControl);
+addUserButton.setText(constants.Create());
+initializeListGroup();
+initializeListTypesRole();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+initializeListGroup();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.146462563779938 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+descriptionControlUser.add(userLabel);
+descriptionControlUser.add(descriptionControl);
+addUserButton.setText(constants.Create());
+initializeListGroup();
+initializeListTypesRole();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+initializeListTypesRole();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1460990468567478 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+String text=fmt.format(weekRange.getStartDate());
+text=text+" - ";
+calendarLabel.setText(text);
+break;
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+selectedTaskName=text+" - ";
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1341729333483743 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+view.getNavBarUL().clear();
+view.getInnerNavPanel().setStyleName("navbar-inner");
+NavLink workLink=new NavLink(constants.Work());
+workLink.setStyleName("active");
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+new NavLink(constants.Work()).setStyleName("active");
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.116688411063075 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+if(!descriptionText.getText().isEmpty()){
+addGroup();
+}else {
+descriptionText.setFocus(true);
+descriptionText.setErrorLabel(descriptionHelpLabel);
+descriptionControlGroup.setType(ControlGroupType.ERROR);
+descriptionHelpLabel.setText(constants.Text_Require());
+}
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setType(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.101480165448082 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+view.getTaskListMultiDayBox().clear();
+for(Day day : currentDayTasks.keySet()){
+view.getTaskListMultiDayBox().addTasksByDay(day,new ArrayList<TaskSummary>(currentDayTasks.get(day)));
+}
+view.getTaskListMultiDayBox().setIdTaskSelected(idTaskSelected);
+view.getTaskListMultiDayBox().refresh();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+view.getTaskListMultiDayBox().refresh();
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0362696356607992 : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>0,0]
+this.taskId=taskId;
+this.taskName=taskName;
+taskNameLabel.setText(taskName);
+this.actualOwner=actualOwner;
+this.potentialOwners=potentialOwners==null?Collections.EMPTY_LIST:potentialOwners;
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/jbpm-wb/jbpm-wb_1/jbpm-console-ng-human-tasks/jbpm-console-ng-human-tasks-client//src/main/java//org/jbpm/console/ng/ht/client/editors/taskdetailsmulti/TaskDetailsMultiPresenter.java=>118,122]
+selectedTaskName=event.getTaskName();
+this.selectedTaskId=taskId;
+view.getTaskIdAndName().setText(String.valueOf(selectedTaskId)+" - ");
+view.getContent().clear();
+
+Time : 22/04/22 13:44
+----------------------------------------

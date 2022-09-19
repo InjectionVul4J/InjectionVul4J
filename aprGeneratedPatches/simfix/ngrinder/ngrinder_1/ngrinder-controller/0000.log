@@ -1,0 +1,317 @@
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.3413415551295018 : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>0,0]
+FileEntry fileEntry=fileEntryService.getOne(user,path);
+if(fileEntry==null){
+LOG.error("{} requested to download not existing file entity {}",user.getUserId(),path);
+return ;
+}
+response.reset();
+try{
+response.addHeader("Content-Disposition","attachment;filename="+java.net.URLEncoder.encode(FilenameUtils.getName(fileEntry.getPath()),"utf8"));
+}catch (UnsupportedEncodingException e1) {
+  LOG.error(e1.getMessage(),e1);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+if(fileEntryService.getOne(user,description)==null){
+LOG.error("{} requested to download not existing file entity {}",user.getUserId(),description);
+return ;
+}
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.1231673812619443 : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>0,0]
+prepare(user);
+List<FileEntry> allFileEntries;
+try{
+allFileEntries=fileEntityRepository.findAll(user);
+}catch (Exception e) {
+  ThreadUtils.sleep(3000);
+  allFileEntries=fileEntityRepository.findAll(user);
+}
+
+return unmodifiableList(allFileEntries);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+prepare(user);
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0853888334795643 : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>0,0]
+setLoginPageDate(model);
+model.addAttribute("signUpEnabled",getConfig().isSignUpEnabled());
+ final String defaultLang=getConfig().getControllerProperties().getProperty(ControllerConstants.PROP_CONTROLLER_DEFAULT_LANG);
+model.addAttribute("defaultLang",defaultLang);
+try{
+getCurrentUser();
+}catch (Exception e) {
+  CoreLogger.LOGGER.info("Login Failure " + e.getMessage());
+  return "login";
+}
+
+model.clear();
+return "redirect:/";
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+setLoginPageDate(model);
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0853888334795643 : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>0,0]
+setLoginPageDate(model);
+model.addAttribute("signUpEnabled",getConfig().isSignUpEnabled());
+ final String defaultLang=getConfig().getControllerProperties().getProperty(ControllerConstants.PROP_CONTROLLER_DEFAULT_LANG);
+model.addAttribute("defaultLang",defaultLang);
+try{
+getCurrentUser();
+}catch (Exception e) {
+  CoreLogger.LOGGER.info("Login Failure " + e.getMessage());
+  return "login";
+}
+
+model.clear();
+return "redirect:/";
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+model.addAttribute("signUpEnabled",getConfig().isSignUpEnabled());
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0853888334795643 : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>0,0]
+setLoginPageDate(model);
+model.addAttribute("signUpEnabled",getConfig().isSignUpEnabled());
+ final String defaultLang=getConfig().getControllerProperties().getProperty(ControllerConstants.PROP_CONTROLLER_DEFAULT_LANG);
+model.addAttribute("defaultLang",defaultLang);
+try{
+getCurrentUser();
+}catch (Exception e) {
+  CoreLogger.LOGGER.info("Login Failure " + e.getMessage());
+  return "login";
+}
+
+model.clear();
+return "redirect:/";
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+model.addAttribute("defaultLang",description);
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.0853888334795643 : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>0,0]
+setLoginPageDate(model);
+model.addAttribute("signUpEnabled",getConfig().isSignUpEnabled());
+ final String defaultLang=getConfig().getControllerProperties().getProperty(ControllerConstants.PROP_CONTROLLER_DEFAULT_LANG);
+model.addAttribute("defaultLang",defaultLang);
+try{
+getCurrentUser();
+}catch (Exception e) {
+  CoreLogger.LOGGER.info("Login Failure " + e.getMessage());
+  return "login";
+}
+
+model.clear();
+return "redirect:/";
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/ngrinder/ngrinder_1/ngrinder-controller//src/main/java//org/ngrinder/script/controller/FileEntryController.java=>368,375]
+model.clear();
+try{
+upload(user,path,description,file);
+model.clear();
+return "redirect:/script/list/"+path;
+}catch (IOException e) {
+  LOG.error("Error while getting file content: {}",e.getMessage(),e);
+  throw processException("Error while getting file content:" + e.getMessage(),e);
+}
+
+
+Time : 22/04/22 13:44
+----------------------------------------

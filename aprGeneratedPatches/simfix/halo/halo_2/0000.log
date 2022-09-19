@@ -1,0 +1,202 @@
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.5537639410532298 : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>0,0]
+Tag tag=tagParam.convertTo();
+log.debug("Tag to be created: [{}]",tag);
+return tagService.convertTo(tagService.create(tag));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+log.validateCommentBlackListStatus();
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.2980971545710656 : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>0,0]
+Assert.notNull(photoParam,"Photo param must not be null");
+return create(photoParam.convertTo());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.create(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.2828073656724512 : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>0,0]
+if(propertyEnum==null){
+return option.getValue();
+}
+return PropertyEnum.convertTo(option.getValue(),propertyEnum);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.getValue();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.2828073656724512 : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>0,0]
+if(propertyEnum==null){
+return option.getValue();
+}
+return PropertyEnum.convertTo(option.getValue(),propertyEnum);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return option.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 1.279304010229859 : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>0,0]
+String defaultValue=defaultValue();
+if(defaultValue==null){
+return null;
+}
+return PropertyEnum.convertTo(defaultValue,propertyType);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+if(defaultValue()==null){
+return null;
+}
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 0.9656090991705352 : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>0,0]
+if(CollectionUtils.isEmpty(comments)){
+return Collections.emptyList();
+}
+return comments.stream().map(this::convertTo).collect(Collectors.toList());
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return Collections.emptyList();
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Similar code block : 0.9621023987294833 : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>0,0]
+Assert.notNull(commentPage,"Comment page must not be null");
+return commentPage.map(this::convertTo);
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Original source code : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.convertTo(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
+
+----------------------------------------
+----------------------------------------
+Find a patch : [/hy-tmp/vuls/halo/halo_2//src/main/java//run/halo/app/controller/content/api/PostController.java=>133,134]
+postCommentService.validateCommentBlackListStatus();
+return postCommentService.map(postCommentService.createBy(postCommentParam));
+
+Time : 22/04/22 13:44
+----------------------------------------
